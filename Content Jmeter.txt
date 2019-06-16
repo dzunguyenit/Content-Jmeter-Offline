@@ -1,0 +1,80 @@
+I. Scoping:
+
+- Các element trong jmeter được tổ chức = cây, có thẻ cha sau đến các thẻ con
+- Khi cha bị ảnh hưởng -> các con cũng bị ảnh hưởng theo
+
+II. Execution order:
+
+Rule 1: Pre-processor -> Timer -> Sampler -> Post processor -> Assertion -> Listener( các vị trí sắp xếp trong jmeter không bị ảnh hưởng -> vẫn chạy theo rule này)
+Rule 2: Các phần tử bên ngoài sẽ chạy trước
+
+III. Timer scope:
+
+Rule 1: Time sẽ chạy trước mỗi sampler
+Rule 2: If nhìu time thì sẽ cộng dồn trước khi thực thi timers
+
+Có thể add think time để có thể control test plan dễ hơn( vì timer nếu nằm bên trong sampler sẽ rất khó kiểm soát) -> 	Add Think Times to the children
+
+IV. Assertion scope:
+
+Rule 1: Assertions chạy sau mỗi sampler
+Rule 2: Chỉ cần 1 assertions fail thì nguyên toàn bộ Transaction Controller fail
+Rule 3: Assertions có thể validate main sample and/or sub-samples.( Chưa demo)
+Rule 4: Tránh các performance chậm như: XPath Assertions, XML Assertions, XML Schema Assertion and HTML Assertion.
+Tips: Add assertions cho mỗi thằng con nó
+
+V. Properties vs variable:
+Giống: làm biến dynamic 
+Khác: Variable chỉ sử dụng trong 1 Thread còn Properties thì sử dụng cho toàn bộ jmeter
+
+Rule 1: Properties nên sử dụng cho biến môi trường data.
+Rule 2: Variables nên sử dụng cho liên quan user data
+
+1. Khai báo biến: 
+
+- Sử dụng User Defined Variables - a config element(more detail in config element slides)
+- Sử dụng User Parameters, a pre-processor.
+- Sử dụng JMeter functions that accept variable as last argument.
+- Sử dụng JMeter post-processor(extractor).
+- By JMeter-defined variable : vars by using vars.put(“varName”,”varValue”) or vars.putObject(“varName”, objectToBeUsed);
+
+2. Access biến:
+
+${}: accessing variables by using ${varName}.
+${__P}: accessing properties by using ${__P(propA)}
+
+VI. Thread
+
+1. Basic Thread Group: Only ramp-up and steady state can be simulated, Threads are ramp-up in linear manner with same delay.
+2. Ultimate Thread Group: Helps to apply conditional load on the server: to create your desired load.
+3. Concurrency Thread Group: giúp control memory usage and stop active threads(hơn thì nó chờ cho đến khi < maximum mới cho thêm request tiếp theo chạy)
+4. Arrival Thread Group: Achieve defined number of iterations.(i.e X orders or ticket should be booking in Y unit of time)
+5. Free-forms Arrivals Thread Group: helps to apply conditional load on server.
+6. Constant Throughput Timer: Maintain constant throughput during the test không bị stop khi maximum request
+7. Precise Throughput Timer: Maintain constant throughput during the test
+8. Throughput Shaping Timer: Most flexible timer.
+
+- Think time: thời gian để user suy nghĩ thực hiện thao tác manual trên website
+- Pacing: thời gian request gửi lên server
+
+* Response code
+
+HTTP 1xx : Informational (100: Continue, 101: Switch Protocols)
+HTTP 2xx : Successful(200:OK, 201: Created, 202: Accepted,etc,..)
+HTTP 3xx: Redirection(300: Multiple Choices, 301: Moved Permanently, 303: See Other,etc…)
+HTTP 4xx: Client error(400: Bad request, 401: Unauthorized, 403: Forbidden, 404: Not Found,etc…)
+HTTP 5xx: Server error(500: Internal Server Error, 502: Bad Gateway, 501: Not Implemented,etc..)
+
+* Concurrent user: số lượng user truy cập nhìu chức năng trên 1 web: login, order, create account
+* Simultaneous user: số lượng user cùng truy cập vào chức năng order
+
+VII. Rule phân tích thực tế
+
+Formula: N = Throughput( số lượng request/ 1s) * ( Response Time + ThinkTime)
+
+
+
+
+
+
+
