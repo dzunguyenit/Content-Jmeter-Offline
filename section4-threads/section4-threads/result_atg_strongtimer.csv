@@ -1,0 +1,870 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1560681295072,585,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-1,text,true,,8550,117,1,1,http://blazedemo.com//,584,0,346
+1560681295983,437,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,437,0,211
+1560681296981,446,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,445,0,213
+1560681297981,470,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-4,text,true,,8550,117,4,4,http://blazedemo.com//,469,0,231
+1560681298981,474,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-5,text,true,,8550,117,5,5,http://blazedemo.com//,473,0,260
+1560681299981,432,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-6,text,true,,8550,117,6,6,http://blazedemo.com//,432,0,211
+1560681300981,443,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-7,text,true,,8550,117,7,7,http://blazedemo.com//,443,0,227
+1560681301980,477,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-8,text,true,,8550,117,8,8,http://blazedemo.com//,476,0,232
+1560681302981,500,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-9,text,true,,8550,117,9,9,http://blazedemo.com//,500,0,226
+1560681303978,468,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-10,text,true,,8550,117,10,10,http://blazedemo.com//,468,0,240
+1560681304980,469,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-11,text,true,,8550,117,11,11,http://blazedemo.com//,469,0,231
+1560681305978,463,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-12,text,true,,8550,117,12,12,http://blazedemo.com//,463,0,228
+1560681306982,458,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-13,text,true,,8550,117,13,13,http://blazedemo.com//,458,0,224
+1560681307981,727,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-14,text,true,,8550,117,14,14,http://blazedemo.com//,727,0,497
+1560681308980,446,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-15,text,true,,8550,117,15,15,http://blazedemo.com//,446,0,216
+1560681309983,422,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-16,text,true,,8550,117,16,16,http://blazedemo.com//,422,0,205
+1560681310981,441,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-17,text,true,,8550,117,17,17,http://blazedemo.com//,441,0,214
+1560681311981,464,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-18,text,true,,8550,117,18,18,http://blazedemo.com//,464,0,229
+1560681312979,441,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-19,text,true,,8550,117,19,19,http://blazedemo.com//,440,0,215
+1560681313981,468,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-20,text,true,,8550,117,20,20,http://blazedemo.com//,467,0,232
+1560681314980,418,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-21,text,true,,8550,117,21,21,http://blazedemo.com//,418,0,202
+1560681315980,1452,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-22,text,true,,8550,117,23,23,http://blazedemo.com//,1452,0,1222
+1560681316981,465,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-23,text,true,,8550,117,23,23,http://blazedemo.com//,461,0,228
+1560681317991,448,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-24,text,true,,8550,117,24,24,http://blazedemo.com//,448,0,220
+1560681318980,455,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-25,text,true,,8550,117,25,25,http://blazedemo.com//,455,0,236
+1560681319981,1422,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-26,text,true,,8551,117,27,27,http://blazedemo.com//,1422,0,1205
+1560681320977,452,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-27,text,true,,8551,117,27,27,http://blazedemo.com//,452,0,213
+1560681321977,619,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-28,text,true,,8550,117,28,28,http://blazedemo.com//,616,0,380
+1560681322978,419,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-29,text,true,,8550,117,29,29,http://blazedemo.com//,419,0,203
+1560681323976,461,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-30,text,true,,8550,117,30,30,http://blazedemo.com//,460,0,223
+1560681324977,442,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-31,text,true,,8550,117,31,31,http://blazedemo.com//,435,0,213
+1560681325480,466,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-32,text,true,,8551,117,32,32,http://blazedemo.com//,466,0,226
+1560681326481,446,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-34,text,true,,8550,117,34,34,http://blazedemo.com//,446,0,220
+1560681325980,1360,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-33,text,true,,8550,117,35,35,http://blazedemo.com//,1360,0,230
+1560681326981,423,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-35,text,true,,8550,117,35,35,http://blazedemo.com//,423,0,203
+1560681327479,595,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-36,text,true,,8551,117,37,37,http://blazedemo.com//,595,0,229
+1560681327981,527,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-37,text,true,,8551,117,38,38,http://blazedemo.com//,527,0,274
+1560681328477,470,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-38,text,true,,8551,117,38,38,http://blazedemo.com//,469,0,240
+1560681328982,424,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-39,text,true,,8551,117,39,39,http://blazedemo.com//,423,0,201
+1560681329477,463,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-40,text,true,,8551,117,40,40,http://blazedemo.com//,463,0,214
+1560681329981,465,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-41,text,true,,8551,117,41,41,http://blazedemo.com//,464,0,216
+1560681330477,464,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-42,text,true,,8550,117,42,42,http://blazedemo.com//,464,0,233
+1560681330981,422,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-43,text,true,,8550,117,43,43,http://blazedemo.com//,422,0,206
+1560681331480,469,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-44,text,true,,8550,117,44,44,http://blazedemo.com//,469,0,213
+1560681331981,442,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-45,text,true,,8550,117,45,45,http://blazedemo.com//,442,0,218
+1560681332480,470,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-46,text,true,,8550,117,46,46,http://blazedemo.com//,470,0,236
+1560681332977,480,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-47,text,true,,8550,117,47,47,http://blazedemo.com//,473,0,235
+1560681333482,511,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-48,text,true,,8550,117,49,49,http://blazedemo.com//,511,0,264
+1560681333981,447,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-49,text,true,,8550,117,49,49,http://blazedemo.com//,447,0,217
+1560681334481,465,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-50,text,true,,8550,117,50,50,http://blazedemo.com//,465,0,227
+1560681334980,479,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-51,text,true,,8550,117,51,51,http://blazedemo.com//,479,0,205
+1560681335477,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-52,text,true,,8550,117,52,52,http://blazedemo.com//,447,0,221
+1560681335977,459,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-53,text,true,,8550,117,53,53,http://blazedemo.com//,459,0,225
+1560681336481,440,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-54,text,true,,8550,117,54,54,http://blazedemo.com//,440,0,212
+1560681336977,467,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-55,text,true,,8550,117,55,55,http://blazedemo.com//,467,0,229
+1560681337481,471,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-56,text,true,,8550,117,56,56,http://blazedemo.com//,471,0,235
+1560681337981,461,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-57,text,true,,8550,117,57,57,http://blazedemo.com//,461,0,214
+1560681338481,433,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-58,text,true,,8550,117,58,58,http://blazedemo.com//,432,0,211
+1560681338977,512,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-59,text,true,,8550,117,60,60,http://blazedemo.com//,512,0,218
+1560681339479,419,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-60,text,true,,8550,117,60,60,http://blazedemo.com//,419,0,205
+1560681339981,463,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-61,text,true,,8550,117,61,61,http://blazedemo.com//,463,0,228
+1560681340480,689,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-62,text,true,,8550,117,63,63,http://blazedemo.com//,689,0,467
+1560681340976,444,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-63,text,true,,8550,117,63,63,http://blazedemo.com//,443,0,217
+1560681341480,438,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-64,text,true,,8550,117,64,64,http://blazedemo.com//,428,0,213
+1560681341979,1298,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-65,text,true,,8550,117,67,67,http://blazedemo.com//,1298,0,215
+1560681342477,803,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-66,text,true,,8550,117,67,67,http://blazedemo.com//,800,0,568
+1560681342976,454,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-67,text,true,,8550,117,67,67,http://blazedemo.com//,454,0,219
+1560681343481,464,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-68,text,true,,8550,117,68,68,http://blazedemo.com//,464,0,224
+1560681343979,467,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-69,text,true,,8550,117,69,69,http://blazedemo.com//,467,0,229
+1560681344480,438,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-70,text,true,,8550,117,70,70,http://blazedemo.com//,438,0,212
+1560681344977,512,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-71,text,true,,8550,117,72,72,http://blazedemo.com//,512,0,266
+1560681345480,422,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-72,text,true,,8550,117,72,72,http://blazedemo.com//,421,0,207
+1560681345978,454,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-73,text,true,,8550,117,73,73,http://blazedemo.com//,454,0,217
+1560681346481,483,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-74,text,true,,8550,117,74,74,http://blazedemo.com//,473,0,238
+1560681346981,441,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-75,text,true,,8550,117,75,75,http://blazedemo.com//,441,0,216
+1560681347485,461,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-76,text,true,,8550,117,76,76,http://blazedemo.com//,461,0,218
+1560681347981,440,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-77,text,true,,8550,117,77,77,http://blazedemo.com//,440,0,215
+1560681348479,450,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-78,text,true,,8550,117,78,78,http://blazedemo.com//,450,0,216
+1560681348982,506,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-79,text,true,,8550,117,80,80,http://blazedemo.com//,505,0,230
+1560681349477,470,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-80,text,true,,8550,117,80,80,http://blazedemo.com//,470,0,232
+1560681349981,484,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-81,text,true,,8550,117,81,81,http://blazedemo.com//,484,0,231
+1560681350480,443,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-82,text,true,,8550,117,82,82,http://blazedemo.com//,439,0,215
+1560681350977,440,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-83,text,true,,8550,117,83,83,http://blazedemo.com//,440,0,212
+1560681351477,464,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-84,text,true,,8550,117,84,84,http://blazedemo.com//,464,0,246
+1560681351978,473,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-85,text,true,,8550,117,85,85,http://blazedemo.com//,472,0,234
+1560681352480,418,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-86,text,true,,8550,117,86,86,http://blazedemo.com//,418,0,204
+1560681352980,450,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-87,text,true,,8550,117,87,87,http://blazedemo.com//,450,0,216
+1560681353481,440,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-88,text,true,,8550,117,88,88,http://blazedemo.com//,440,0,214
+1560681353977,448,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-89,text,true,,8550,117,89,89,http://blazedemo.com//,448,0,220
+1560681354476,464,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-90,text,true,,8550,117,90,90,http://blazedemo.com//,463,0,222
+1560681354977,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-91,text,true,,8550,117,92,92,http://blazedemo.com//,451,0,219
+1560681355314,448,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-92,text,true,,8550,117,92,92,http://blazedemo.com//,439,0,214
+1560681355665,455,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-1,text,true,,11186,247,93,93,http://blazedemo.com//reserve.php,455,0,223
+1560681355812,459,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-93,text,true,,8551,117,93,93,http://blazedemo.com//,459,0,227
+1560681356311,447,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-94,text,true,,8551,117,94,94,http://blazedemo.com//,447,0,219
+1560681356427,470,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-2,text,true,,11186,247,95,95,http://blazedemo.com//reserve.php,470,0,229
+1560681356813,430,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-95,text,true,,8551,117,95,95,http://blazedemo.com//,429,0,203
+1560681357432,427,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-3,text,true,,11186,247,97,97,http://blazedemo.com//reserve.php,427,0,205
+1560681357815,553,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-97,text,true,,8551,117,98,98,http://blazedemo.com//,553,0,226
+1560681357314,1414,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-96,text,true,,8551,117,98,98,http://blazedemo.com//,1409,0,229
+1560681358312,471,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-98,text,true,,8550,117,98,98,http://blazedemo.com//,469,0,221
+1560681358456,518,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-4,text,true,,11185,247,99,99,http://blazedemo.com//reserve.php,516,0,267
+1560681358811,439,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-99,text,true,,8550,117,99,99,http://blazedemo.com//,439,0,215
+1560681359314,494,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-100,text,true,,8550,117,100,100,http://blazedemo.com//,493,0,258
+1560681359457,461,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-5,text,true,,11185,247,101,101,http://blazedemo.com//reserve.php,461,0,225
+1560681360319,443,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-102,text,true,,8550,117,102,102,http://blazedemo.com//,443,0,214
+1560681360420,458,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-6,text,true,,11185,247,103,103,http://blazedemo.com//reserve.php,458,0,224
+1560681360814,426,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-103,text,true,,8550,117,103,103,http://blazedemo.com//,425,0,202
+1560681359811,1458,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-101,text,true,,8550,117,103,103,http://blazedemo.com//,1458,0,1233
+1560681361314,442,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-104,text,true,,8550,117,104,104,http://blazedemo.com//,438,0,213
+1560681361814,423,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-105,text,true,,8550,117,105,105,http://blazedemo.com//,423,0,202
+1560681361427,1304,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-7,text,true,,11185,247,106,106,http://blazedemo.com//reserve.php,1304,0,219
+1560681362309,457,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-106,text,true,,8550,117,106,106,http://blazedemo.com//,456,0,224
+1560681362463,470,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-8,text,true,,11185,247,107,107,http://blazedemo.com//reserve.php,470,0,230
+1560681362813,425,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-107,text,true,,8550,117,107,107,http://blazedemo.com//,416,0,203
+1560681363312,425,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-108,text,true,,8550,117,108,108,http://blazedemo.com//,425,0,203
+1560681363485,477,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-9,text,true,,11185,247,109,109,http://blazedemo.com//reserve.php,477,0,226
+1560681363811,444,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-109,text,true,,8550,117,109,109,http://blazedemo.com//,444,0,215
+1560681364310,460,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-110,text,true,,8550,117,110,110,http://blazedemo.com//,459,0,228
+1560681364451,484,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-10,text,true,,11185,247,111,111,http://blazedemo.com//reserve.php,483,0,215
+1560681364809,450,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-111,text,true,,8550,117,111,111,http://blazedemo.com//,449,0,218
+1560681365313,419,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-112,text,true,,8550,117,112,112,http://blazedemo.com//,416,0,204
+1560681365452,462,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-11,text,true,,11185,247,113,113,http://blazedemo.com//reserve.php,461,0,226
+1560681365811,459,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-113,text,true,,8550,117,113,113,http://blazedemo.com//,459,0,225
+1560681366314,437,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-114,text,true,,8550,117,114,114,http://blazedemo.com//,433,0,214
+1560681366445,440,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-12,text,true,,11185,247,115,115,http://blazedemo.com//reserve.php,440,0,218
+1560681366814,439,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-115,text,true,,8550,117,115,115,http://blazedemo.com//,439,0,213
+1560681367315,487,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-116,text,true,,8550,117,116,116,http://blazedemo.com//,487,0,223
+1560681367445,464,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-13,text,true,,11185,247,117,117,http://blazedemo.com//reserve.php,464,0,224
+1560681367810,491,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-117,text,true,,8550,117,117,117,http://blazedemo.com//,491,0,214
+1560681368315,478,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-118,text,true,,8550,117,118,118,http://blazedemo.com//,478,0,230
+1560681368714,466,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-14,text,true,,11185,247,119,119,http://blazedemo.com//reserve.php,466,0,229
+1560681368815,422,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-119,text,true,,8550,117,119,119,http://blazedemo.com//,417,0,204
+1560681369310,454,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-120,text,true,,8550,117,120,120,http://blazedemo.com//,454,0,224
+1560681369430,613,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-15,text,true,,11185,247,121,121,http://blazedemo.com//reserve.php,612,0,242
+1560681369813,457,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-121,text,true,,8550,117,121,121,http://blazedemo.com//,457,0,230
+1560681370314,507,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-122,text,true,,8550,117,123,123,http://blazedemo.com//,506,0,221
+1560681370407,442,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-16,text,true,,11186,247,123,123,http://blazedemo.com//reserve.php,441,0,203
+1560681370813,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-123,text,true,,8550,117,123,123,http://blazedemo.com//,449,0,218
+1560681371312,468,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-124,text,true,,8550,117,124,124,http://blazedemo.com//,464,0,228
+1560681371427,487,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-17,text,true,,11185,247,125,125,http://blazedemo.com//reserve.php,486,0,238
+1560681371812,484,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-125,text,true,,8550,117,125,125,http://blazedemo.com//,484,0,232
+1560681372310,439,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-126,text,true,,8550,117,126,126,http://blazedemo.com//,439,0,216
+1560681372449,462,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-18,text,true,,11185,247,127,127,http://blazedemo.com//reserve.php,461,0,215
+1560681372814,458,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-127,text,true,,8550,117,127,127,http://blazedemo.com//,458,0,225
+1560681373312,443,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-128,text,true,,8550,117,128,128,http://blazedemo.com//,442,0,220
+1560681373424,467,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-19,text,true,,11185,247,129,129,http://blazedemo.com//reserve.php,466,0,225
+1560681373810,439,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-129,text,true,,8550,117,129,129,http://blazedemo.com//,438,0,213
+1560681374311,443,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-130,text,true,,8550,117,130,130,http://blazedemo.com//,443,0,217
+1560681374456,454,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-20,text,true,,11185,247,131,131,http://blazedemo.com//reserve.php,453,0,228
+1560681374814,442,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-131,text,true,,8550,117,131,131,http://blazedemo.com//,442,0,211
+1560681375311,671,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-132,text,true,,8550,117,133,133,http://blazedemo.com//,670,0,237
+1560681375401,608,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-21,text,true,,11185,247,133,133,http://blazedemo.com//reserve.php,607,0,229
+1560681376310,446,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-134,text,true,,8550,117,134,134,http://blazedemo.com//,446,0,221
+1560681375811,1456,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-133,text,true,,8550,117,135,135,http://blazedemo.com//,1456,0,1227
+1560681376810,499,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-135,text,true,,8550,117,136,135,http://blazedemo.com//,499,0,228
+1560681377311,496,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-136,text,true,,8550,117,136,136,http://blazedemo.com//,490,0,226
+1560681377448,436,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-23,text,true,,11186,247,137,137,http://blazedemo.com//reserve.php,436,0,216
+1560681377438,455,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-22,text,true,,11185,247,137,137,http://blazedemo.com//reserve.php,455,0,226
+1560681377825,457,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-137,text,true,,8550,117,137,137,http://blazedemo.com//,457,0,213
+1560681378443,460,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-24,text,true,,11185,247,139,139,http://blazedemo.com//reserve.php,456,0,217
+1560681378312,592,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-138,text,true,,8550,117,139,139,http://blazedemo.com//,592,0,358
+1560681378811,716,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-139,text,true,,8550,117,140,140,http://blazedemo.com//,716,0,231
+1560681379309,503,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-140,text,true,,8550,117,141,141,http://blazedemo.com//,503,0,272
+1560681379438,552,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-25,text,true,,11185,247,141,141,http://blazedemo.com//reserve.php,551,0,324
+1560681380310,418,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-142,text,true,,8550,117,142,142,http://blazedemo.com//,416,0,203
+1560681379810,1450,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-141,text,true,,8550,117,143,143,http://blazedemo.com//,1450,0,1223
+1560681380810,464,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-143,text,true,,8550,117,143,143,http://blazedemo.com//,463,0,224
+1560681381314,453,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-144,text,true,,8550,117,144,144,http://blazedemo.com//,453,0,216
+1560681381407,461,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-26,text,true,,11185,247,145,145,http://blazedemo.com//reserve.php,460,0,214
+1560681381433,467,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-27,text,true,,11185,247,145,145,http://blazedemo.com//reserve.php,467,0,222
+1560681381812,3199,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-145,text,true,,8550,117,151,151,http://blazedemo.com//,3199,0,654
+1560681383810,2281,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-149,text,true,,8550,117,153,153,http://blazedemo.com//,2281,0,1957
+1560681384441,1693,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-30,text,true,,11185,247,153,153,http://blazedemo.com//reserve.php,1651,0,1369
+1560681384815,1319,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-151,text,true,,8550,117,153,153,http://blazedemo.com//,1319,0,995
+1560681384310,1825,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-150,text,true,,8550,117,153,153,http://blazedemo.com//,1825,0,1500
+1560681385422,1011,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-31,text,true,,11185,247,154,154,http://blazedemo.com//reserve.php,1011,0,651
+1560681385314,1127,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-152,text,true,,8550,117,154,154,http://blazedemo.com//,1119,0,760
+1560681385810,732,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-153,text,true,,8551,117,154,154,http://blazedemo.com//,732,0,469
+1560681382812,4050,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-147,text,true,,8550,117,155,155,http://blazedemo.com//,3262,0,2955
+1560681382315,4547,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-146,text,true,,8550,117,155,155,http://blazedemo.com//,3759,0,2695
+1560681385949,916,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-32,text,true,,11186,247,155,155,http://blazedemo.com//reserve.php,914,0,483
+1560681386312,554,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-154,text,true,,8551,117,155,155,http://blazedemo.com//,553,0,230
+1560681382599,4494,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-28,text,true,,11185,247,155,155,http://blazedemo.com//reserve.php,3492,0,3168
+1560681386810,527,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-155,text,true,,8551,117,156,156,http://blazedemo.com//,527,0,283
+1560681386930,444,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-34,text,true,,11186,247,156,156,http://blazedemo.com//reserve.php,436,0,219
+1560681387310,453,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-156,text,true,,8551,117,156,156,http://blazedemo.com//,448,0,218
+1560681387342,533,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-33,text,true,,11186,247,157,157,http://blazedemo.com//reserve.php,532,0,228
+1560681387409,467,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-35,text,true,,11186,247,157,157,http://blazedemo.com//reserve.php,466,0,207
+1560681387810,480,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-157,text,true,,8551,117,157,157,http://blazedemo.com//,480,0,221
+1560681388076,438,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-36,text,true,,11193,247,158,158,http://blazedemo.com//reserve.php,438,0,213
+1560681388310,500,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-158,text,true,,8550,117,158,158,http://blazedemo.com//,499,0,215
+1560681388514,421,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-37,text,true,,11185,247,159,159,http://blazedemo.com//reserve.php,421,0,205
+1560681388813,441,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-159,text,true,,8551,117,159,159,http://blazedemo.com//,437,0,213
+1560681388950,447,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-38,text,true,,11186,247,160,160,http://blazedemo.com//reserve.php,447,0,221
+1560681389314,446,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-160,text,true,,8550,117,160,160,http://blazedemo.com//,446,0,218
+1560681389408,445,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-39,text,true,,11185,247,161,161,http://blazedemo.com//reserve.php,444,0,219
+1560681383313,6895,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-148,text,true,,8550,117,161,161,http://blazedemo.com//,2779,0,2454
+1560681383400,6816,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-29,text,true,,11186,247,161,161,http://blazedemo.com//reserve.php,2692,0,2367
+1560681389810,423,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-161,text,true,,8550,117,161,161,http://blazedemo.com//,423,0,202
+1560681389944,517,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-40,text,true,,11185,247,162,162,http://blazedemo.com//reserve.php,517,0,264
+1560681390313,456,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-162,text,true,,8550,117,162,162,http://blazedemo.com//,456,0,219
+1560681390454,463,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-41,text,true,,11186,247,163,163,http://blazedemo.com//reserve.php,463,0,225
+1560681390815,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-163,text,true,,8550,117,163,163,http://blazedemo.com//,445,0,219
+1560681390947,484,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-42,text,true,,11185,247,164,164,http://blazedemo.com//reserve.php,484,0,234
+1560681391315,440,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-164,text,true,,8550,117,164,164,http://blazedemo.com//,440,0,217
+1560681391409,474,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-43,text,true,,11185,247,165,165,http://blazedemo.com//reserve.php,473,0,231
+1560681391815,439,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-165,text,true,,8550,117,165,165,http://blazedemo.com//,438,0,205
+1560681391956,463,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-44,text,true,,11185,247,166,166,http://blazedemo.com//reserve.php,463,0,217
+1560681392311,467,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-166,text,true,,8550,117,166,166,http://blazedemo.com//,467,0,227
+1560681392427,435,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-45,text,true,,11185,247,167,167,http://blazedemo.com//reserve.php,433,0,204
+1560681392956,456,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-46,text,true,,11185,247,168,168,http://blazedemo.com//reserve.php,455,0,215
+1560681393313,423,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-168,text,true,,8550,117,168,168,http://blazedemo.com//,423,0,204
+1560681393460,482,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-47,text,true,,11185,247,169,169,http://blazedemo.com//reserve.php,482,0,238
+1560681393813,566,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-169,text,true,,8550,117,170,170,http://blazedemo.com//,566,0,338
+1560681392811,1634,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-167,text,true,,8550,117,170,170,http://blazedemo.com//,1633,0,1390
+1560681394000,498,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-48,text,true,,11185,247,170,170,http://blazedemo.com//reserve.php,497,0,255
+1560681394431,492,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-49,text,true,,11185,247,171,171,http://blazedemo.com//reserve.php,492,0,278
+1560681394951,962,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-50,text,true,,11185,247,173,173,http://blazedemo.com//reserve.php,961,0,395
+1560681395313,808,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-172,text,true,,8550,117,173,173,http://blazedemo.com//,808,0,584
+1560681394812,1311,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-171,text,true,,8550,117,173,173,http://blazedemo.com//,1310,0,220
+1560681395465,675,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-51,text,true,,11185,247,173,173,http://blazedemo.com//reserve.php,674,0,447
+1560681395815,470,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-173,text,true,,8550,117,173,173,http://blazedemo.com//,469,0,232
+1560681395929,478,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-52,text,true,,11185,247,174,174,http://blazedemo.com//reserve.php,477,0,229
+1560681394315,2151,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-170,text,true,,8550,117,174,174,http://blazedemo.com//,1608,0,1225
+1560681396311,448,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-174,text,true,,8550,117,174,174,http://blazedemo.com//,448,0,219
+1560681396439,781,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-53,text,true,,11185,247,175,175,http://blazedemo.com//reserve.php,780,0,218
+1560681396922,546,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-54,text,true,,11185,247,176,176,http://blazedemo.com//reserve.php,527,0,298
+1560681396810,658,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-175,text,true,,8550,117,176,176,http://blazedemo.com//,658,0,410
+1560681397310,548,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-176,text,true,,8550,117,177,177,http://blazedemo.com//,548,0,307
+1560681397449,473,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-55,text,true,,11185,247,177,177,http://blazedemo.com//reserve.php,473,0,233
+1560681397810,432,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-177,text,true,,8550,117,177,177,http://blazedemo.com//,432,0,208
+1560681397958,500,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-56,text,true,,11185,247,178,178,http://blazedemo.com//reserve.php,499,0,246
+1560681398314,458,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-178,text,true,,8550,117,178,178,http://blazedemo.com//,458,0,226
+1560681398448,468,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-57,text,true,,11185,247,179,179,http://blazedemo.com//reserve.php,468,0,223
+1560681398812,495,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-179,text,true,,8550,117,179,179,http://blazedemo.com//,495,0,237
+1560681398920,425,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-58,text,true,,11185,247,180,180,http://blazedemo.com//reserve.php,424,0,204
+1560681399314,453,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-180,text,true,,8550,117,180,180,http://blazedemo.com//,453,0,220
+1560681399491,458,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-59,text,true,,11185,247,181,181,http://blazedemo.com//reserve.php,457,0,228
+1560681399810,430,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-181,text,true,,8550,117,181,181,http://blazedemo.com//,430,0,211
+1560681399904,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-60,text,true,,11185,247,182,182,http://blazedemo.com//reserve.php,443,0,216
+1560681400314,448,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-182,text,true,,8550,117,182,182,http://blazedemo.com//,448,0,213
+1560681400450,415,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-61,text,true,,11185,247,183,183,http://blazedemo.com//reserve.php,414,0,201
+1560681400810,500,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-183,text,true,,8550,117,183,183,http://blazedemo.com//,493,0,207
+1560681401174,561,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-62,text,true,,11185,247,184,184,http://blazedemo.com//reserve.php,561,0,298
+1560681401312,489,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-184,text,true,,8550,117,184,184,http://blazedemo.com//,489,0,236
+1560681401428,542,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-63,text,true,,11185,247,185,185,http://blazedemo.com//reserve.php,542,0,306
+1560681401809,446,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-185,text,true,,8550,117,185,185,http://blazedemo.com//,446,0,211
+1560681401922,473,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-64,text,true,,11185,247,186,186,http://blazedemo.com//reserve.php,472,0,224
+1560681402311,465,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-186,text,true,,8550,117,186,186,http://blazedemo.com//,464,0,225
+1560681402810,456,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-187,text,true,,8550,117,187,187,http://blazedemo.com//,455,0,213
+1560681403309,437,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-188,text,true,,8550,117,188,188,http://blazedemo.com//,437,0,217
+1560681403284,475,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-65,text,true,,11185,247,188,188,http://blazedemo.com//reserve.php,474,0,242
+1560681403285,475,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-66,text,true,,11185,247,188,188,http://blazedemo.com//reserve.php,474,0,241
+1560681403811,454,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-189,text,true,,8550,117,189,189,http://blazedemo.com//,454,0,214
+1560681403949,467,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-68,text,true,,11185,247,190,190,http://blazedemo.com//reserve.php,466,0,223
+1560681404310,456,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-190,text,true,,8550,117,190,190,http://blazedemo.com//,456,0,217
+1560681403433,1346,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-67,text,true,,11185,247,190,190,http://blazedemo.com//reserve.php,1346,0,226
+1560681404449,489,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-69,text,true,,11185,247,191,191,http://blazedemo.com//reserve.php,488,0,254
+1560681404810,551,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-191,text,true,,8550,117,192,192,http://blazedemo.com//,551,0,213
+1560681404924,464,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-70,text,true,,11185,247,192,192,http://blazedemo.com//reserve.php,464,0,227
+1560681405310,473,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-192,text,true,,8550,117,192,192,http://blazedemo.com//,472,0,232
+1560681405496,478,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-71,text,true,,11185,247,193,193,http://blazedemo.com//reserve.php,478,0,211
+1560681405905,456,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-72,text,true,,11185,247,194,194,http://blazedemo.com//reserve.php,455,0,216
+1560681406309,441,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-194,text,true,,8550,117,194,194,http://blazedemo.com//,441,0,214
+1560681406438,761,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-73,text,true,,11185,247,195,195,http://blazedemo.com//reserve.php,761,0,285
+1560681405814,1611,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-193,text,true,,8550,117,196,196,http://blazedemo.com//,1610,0,1385
+1560681406970,460,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-74,text,true,,11185,247,196,196,http://blazedemo.com//reserve.php,459,0,229
+1560681406810,630,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-195,text,true,,8550,117,196,196,http://blazedemo.com//,630,0,389
+1560681407310,445,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-196,text,true,,8550,117,196,196,http://blazedemo.com//,442,0,213
+1560681407426,532,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-75,text,true,,11185,247,197,197,http://blazedemo.com//reserve.php,530,0,230
+1560681407814,452,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-197,text,true,,8550,117,197,197,http://blazedemo.com//,450,0,214
+1560681407952,472,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-76,text,true,,11185,247,198,198,http://blazedemo.com//reserve.php,470,0,233
+1560681408310,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-198,text,true,,8550,117,198,198,http://blazedemo.com//,437,0,213
+1560681408423,440,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-77,text,true,,11185,247,199,199,http://blazedemo.com//reserve.php,439,0,213
+1560681408809,482,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-199,text,true,,8550,117,199,199,http://blazedemo.com//,481,0,225
+1560681408932,482,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-78,text,true,,11185,247,200,200,http://blazedemo.com//reserve.php,481,0,213
+1560681409309,452,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-200,text,true,,8550,117,200,200,http://blazedemo.com//,452,0,218
+1560681409490,468,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-79,text,true,,11185,247,201,201,http://blazedemo.com//reserve.php,467,0,223
+1560681409812,475,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-201,text,true,,8550,117,201,201,http://blazedemo.com//,475,0,227
+1560681409949,447,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-80,text,true,,11185,247,202,202,http://blazedemo.com//reserve.php,446,0,205
+1560681410310,448,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-202,text,true,,8550,117,202,202,http://blazedemo.com//,448,0,227
+1560681410470,457,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-81,text,true,,11185,247,203,203,http://blazedemo.com//reserve.php,456,0,227
+1560681410810,457,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-203,text,true,,8550,117,203,203,http://blazedemo.com//,456,0,223
+1560681410926,419,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-82,text,true,,11185,247,204,204,http://blazedemo.com//reserve.php,419,0,203
+1560681411312,444,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-204,text,true,,8550,117,204,204,http://blazedemo.com//,444,0,216
+1560681411424,457,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-83,text,true,,11185,247,205,205,http://blazedemo.com//reserve.php,457,0,216
+1560681411813,476,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-205,text,true,,8550,117,205,205,http://blazedemo.com//,476,0,239
+1560681411947,463,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-84,text,true,,11185,247,206,206,http://blazedemo.com//reserve.php,463,0,225
+1560681412310,473,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-206,text,true,,8550,117,206,206,http://blazedemo.com//,472,0,235
+1560681412457,460,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-85,text,true,,11185,247,207,207,http://blazedemo.com//reserve.php,460,0,212
+1560681412811,512,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-207,text,true,,8550,117,208,208,http://blazedemo.com//,512,0,234
+1560681412905,465,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-86,text,true,,11185,247,208,208,http://blazedemo.com//reserve.php,464,0,226
+1560681413311,460,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-208,text,true,,8550,117,208,208,http://blazedemo.com//,459,0,233
+1560681413437,514,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-87,text,true,,11185,247,209,209,http://blazedemo.com//reserve.php,513,0,275
+1560681413811,565,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-209,text,true,,8550,117,210,210,http://blazedemo.com//,564,0,336
+1560681413924,471,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-88,text,true,,11185,247,210,210,http://blazedemo.com//reserve.php,471,0,230
+1560681414310,471,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-210,text,true,,8550,117,210,210,http://blazedemo.com//,470,0,234
+1560681414431,445,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-89,text,true,,11185,247,211,211,http://blazedemo.com//reserve.php,445,0,215
+1560681414810,447,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-211,text,true,,8550,117,211,211,http://blazedemo.com//,447,0,216
+1560681414942,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-90,text,true,,11185,247,212,212,http://blazedemo.com//reserve.php,443,0,215
+1560681415315,444,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-212,text,true,,8550,117,212,212,http://blazedemo.com//,444,0,217
+1560681415434,466,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-91,text,true,,11185,247,213,213,http://blazedemo.com//reserve.php,466,0,228
+1560681415766,466,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-92,text,true,,11185,247,213,213,http://blazedemo.com//reserve.php,465,0,230
+1560681415811,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-213,text,true,,8550,117,213,213,http://blazedemo.com//,450,0,211
+1560681416273,545,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-93,text,true,,11185,247,215,215,http://blazedemo.com//reserve.php,545,0,265
+1560681416313,552,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-214,text,true,,8551,117,215,215,http://blazedemo.com//,552,0,267
+1560681416133,732,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-1,text,true,,10547,292,215,215,http://blazedemo.com//purchase.php,732,0,425
+1560681416760,518,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-94,text,true,,11186,247,214,214,http://blazedemo.com//reserve.php,517,0,249
+1560681416810,537,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-215,text,true,,8551,117,215,215,http://blazedemo.com//,536,0,260
+1560681416904,554,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-2,text,true,,10546,291,215,215,http://blazedemo.com//purchase.php,553,0,262
+1560681417248,523,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-95,text,true,,11186,247,214,214,http://blazedemo.com//reserve.php,523,0,253
+1560681417321,591,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-1,text,true,,8550,117,215,215,http://blazedemo.com//,590,0,285
+1560681417813,551,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-2,text,true,,8550,117,216,216,http://blazedemo.com//,551,0,269
+1560681417865,522,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-3,text,true,,10551,296,216,216,http://blazedemo.com//purchase.php,521,0,244
+1560681418316,591,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-216,text,true,,8550,117,216,216,http://blazedemo.com//,591,0,289
+1560681418372,551,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-97,text,true,,11186,247,216,216,http://blazedemo.com//reserve.php,546,0,267
+1560681418732,553,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-96,text,true,,11185,247,216,216,http://blazedemo.com//reserve.php,552,0,269
+1560681418790,553,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-98,text,true,,11186,247,217,217,http://blazedemo.com//reserve.php,552,0,264
+1560681418810,534,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-3,text,true,,8550,117,217,217,http://blazedemo.com//,533,0,254
+1560681418981,620,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-4,text,true,,10546,291,217,217,http://blazedemo.com//purchase.php,609,0,303
+1560681419255,585,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-99,text,true,,11185,247,217,217,http://blazedemo.com//reserve.php,584,0,294
+1560681419310,587,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-217,text,true,,8550,117,217,217,http://blazedemo.com//,586,0,280
+1560681419810,555,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-4,text,true,,8550,117,218,218,http://blazedemo.com//,555,0,284
+1560681419810,557,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-100,text,true,,11186,247,218,218,http://blazedemo.com//reserve.php,555,0,284
+1560681419922,585,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-5,text,true,,10552,297,218,218,http://blazedemo.com//purchase.php,584,0,282
+1560681420312,560,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-218,text,true,,8550,117,218,218,http://blazedemo.com//,560,0,273
+1560681420770,607,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-102,text,true,,11185,247,219,219,http://blazedemo.com//reserve.php,607,0,273
+1560681420810,624,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-5,text,true,,8550,117,219,219,http://blazedemo.com//,624,0,273
+1560681420882,616,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-6,text,true,,10550,294,219,219,http://blazedemo.com//purchase.php,608,0,309
+1560681421274,524,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-101,text,true,,11185,247,218,218,http://blazedemo.com//reserve.php,523,0,253
+1560681421242,592,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-103,text,true,,11185,247,219,219,http://blazedemo.com//reserve.php,592,0,291
+1560681421312,556,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-219,text,true,,8550,117,219,219,http://blazedemo.com//,556,0,283
+1560681421762,553,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-104,text,true,,11185,247,220,220,http://blazedemo.com//reserve.php,551,0,267
+1560681421813,536,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-6,text,true,,8550,117,220,220,http://blazedemo.com//,533,0,261
+1560681422242,574,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-105,text,true,,11185,247,221,221,http://blazedemo.com//reserve.php,574,0,274
+1560681422310,567,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-220,text,true,,8550,117,221,221,http://blazedemo.com//,567,0,275
+1560681422772,521,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-106,text,true,,11185,247,221,221,http://blazedemo.com//reserve.php,520,0,255
+1560681422738,580,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-7,text,true,,10549,294,222,222,http://blazedemo.com//purchase.php,579,0,284
+1560681422811,536,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-221,text,true,,8550,117,221,221,http://blazedemo.com//,536,0,262
+1560681422938,562,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-8,text,true,,10550,295,221,221,http://blazedemo.com//purchase.php,562,0,275
+1560681423242,629,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-107,text,true,,11185,247,221,221,http://blazedemo.com//reserve.php,629,0,282
+1560681423314,579,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-222,text,true,,8550,117,221,221,http://blazedemo.com//,579,0,277
+1560681423739,570,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-108,text,true,,11185,247,222,222,http://blazedemo.com//reserve.php,565,0,293
+1560681423813,568,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-7,text,true,,8550,117,222,222,http://blazedemo.com//,567,0,286
+1560681423966,535,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-9,text,true,,10549,294,222,222,http://blazedemo.com//purchase.php,535,0,264
+1560681424263,624,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-109,text,true,,11185,247,222,222,http://blazedemo.com//reserve.php,624,0,281
+1560681424309,578,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-8,text,true,,8550,117,222,222,http://blazedemo.com//,578,0,293
+1560681424775,546,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-110,text,true,,11185,247,223,223,http://blazedemo.com//reserve.php,543,0,267
+1560681424811,533,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-9,text,true,,8550,117,223,223,http://blazedemo.com//,533,0,271
+1560681424938,525,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-10,text,true,,10552,296,223,223,http://blazedemo.com//purchase.php,516,0,252
+1560681425266,644,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-111,text,true,,11185,247,223,223,http://blazedemo.com//reserve.php,641,0,276
+1560681425315,643,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-223,text,true,,8550,117,223,223,http://blazedemo.com//,635,0,292
+1560681425735,555,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-112,text,true,,11185,247,223,223,http://blazedemo.com//reserve.php,554,0,269
+1560681425810,540,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-10,text,true,,8550,117,224,224,http://blazedemo.com//,539,0,257
+1560681425918,574,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-11,text,true,,10552,297,224,224,http://blazedemo.com//purchase.php,565,0,283
+1560681426272,539,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-113,text,true,,11185,247,224,224,http://blazedemo.com//reserve.php,539,0,257
+1560681426311,605,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-224,text,true,,8550,117,224,224,http://blazedemo.com//,605,0,290
+1560681426756,536,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-114,text,true,,11185,247,224,224,http://blazedemo.com//reserve.php,535,0,262
+1560681426811,557,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-11,text,true,,8550,117,225,225,http://blazedemo.com//,556,0,260
+1560681426891,585,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-12,text,true,,10544,289,225,225,http://blazedemo.com//purchase.php,585,0,285
+1560681427255,571,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-115,text,true,,11185,247,225,225,http://blazedemo.com//reserve.php,513,0,251
+1560681427310,779,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-225,text,true,,8550,117,225,225,http://blazedemo.com//,779,0,281
+1560681427806,788,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-116,text,true,,11185,247,226,226,http://blazedemo.com//reserve.php,788,0,281
+1560681427810,785,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-12,text,true,,8550,117,226,226,http://blazedemo.com//,784,0,277
+1560681427911,973,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-13,text,true,,10550,295,227,227,http://blazedemo.com//purchase.php,972,0,682
+1560681428305,638,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-117,text,true,,11185,247,226,226,http://blazedemo.com//reserve.php,638,0,351
+1560681428310,803,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-226,text,true,,8550,117,226,226,http://blazedemo.com//,803,0,497
+1560681428798,536,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-118,text,true,,11185,247,227,227,http://blazedemo.com//reserve.php,535,0,264
+1560681428811,589,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-227,text,true,,8550,117,227,227,http://blazedemo.com//,589,0,270
+1560681429182,562,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-14,text,true,,10550,295,227,227,http://blazedemo.com//purchase.php,562,0,273
+1560681429240,549,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-119,text,true,,11185,247,226,226,http://blazedemo.com//reserve.php,549,0,285
+1560681429309,525,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-13,text,true,,8550,117,227,227,http://blazedemo.com//,524,0,256
+1560681429766,558,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-120,text,true,,11167,247,228,228,http://blazedemo.com//reserve.php,556,0,271
+1560681429813,589,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-14,text,true,,8550,117,228,228,http://blazedemo.com//,587,0,288
+1560681430048,543,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-15,text,true,,10546,291,228,228,http://blazedemo.com//purchase.php,541,0,265
+1560681430274,548,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-121,text,true,,11185,247,228,228,http://blazedemo.com//reserve.php,547,0,274
+1560681430315,562,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-228,text,true,,8550,117,228,228,http://blazedemo.com//,562,0,276
+1560681430810,510,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-15,text,true,,8550,117,229,229,http://blazedemo.com//,510,0,243
+1560681430826,555,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-122,text,true,,11185,247,229,229,http://blazedemo.com//reserve.php,555,0,273
+1560681430851,570,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-16,text,true,,10546,290,229,229,http://blazedemo.com//purchase.php,570,0,279
+1560681431266,538,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-123,text,true,,11185,247,228,228,http://blazedemo.com//reserve.php,533,0,263
+1560681431310,562,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-229,text,true,,8550,117,229,229,http://blazedemo.com//,562,0,270
+1560681431809,519,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-16,text,true,,8550,117,230,230,http://blazedemo.com//,519,0,252
+1560681431782,563,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-124,text,true,,11186,247,230,230,http://blazedemo.com//reserve.php,562,0,275
+1560681431917,553,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-17,text,true,,10545,290,230,230,http://blazedemo.com//purchase.php,552,0,268
+1560681432312,619,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-230,text,true,,8550,117,230,230,http://blazedemo.com//,619,0,261
+1560681432300,631,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-125,text,true,,11185,247,230,230,http://blazedemo.com//reserve.php,631,0,271
+1560681432755,592,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-126,text,true,,11185,247,231,231,http://blazedemo.com//reserve.php,592,0,290
+1560681432813,573,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-17,text,true,,8550,117,231,231,http://blazedemo.com//,572,0,289
+1560681432917,661,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-18,text,true,,10551,296,231,231,http://blazedemo.com//purchase.php,660,0,342
+1560681433275,649,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-127,text,true,,11185,247,231,231,http://blazedemo.com//reserve.php,648,0,303
+1560681433310,614,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-231,text,true,,8550,117,231,231,http://blazedemo.com//,614,0,294
+1560681433757,545,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-128,text,true,,11185,247,231,231,http://blazedemo.com//reserve.php,543,0,271
+1560681433811,747,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-18,text,true,,8550,117,232,232,http://blazedemo.com//,747,0,270
+1560681433893,666,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-19,text,true,,10544,289,232,232,http://blazedemo.com//purchase.php,665,0,261
+1560681434255,593,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-129,text,true,,11185,247,232,232,http://blazedemo.com//reserve.php,593,0,304
+1560681434311,565,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-232,text,true,,8550,117,232,232,http://blazedemo.com//,565,0,271
+1560681434809,506,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-19,text,true,,8550,117,233,233,http://blazedemo.com//,506,0,252
+1560681434758,579,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-130,text,true,,11185,247,233,233,http://blazedemo.com//reserve.php,579,0,279
+1560681434916,550,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-20,text,true,,10551,296,233,233,http://blazedemo.com//purchase.php,550,0,268
+1560681435259,537,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-131,text,true,,11185,247,232,232,http://blazedemo.com//reserve.php,536,0,262
+1560681435310,509,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-233,text,true,,8550,117,233,233,http://blazedemo.com//,509,0,253
+1560681435809,518,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-20,text,true,,8550,117,234,234,http://blazedemo.com//,518,0,255
+1560681435988,581,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-132,text,true,,11185,247,234,234,http://blazedemo.com//reserve.php,578,0,284
+1560681436016,576,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-21,text,true,,10546,290,234,234,http://blazedemo.com//purchase.php,576,0,281
+1560681436311,537,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-234,text,true,,8551,117,234,234,http://blazedemo.com//,537,0,258
+1560681436764,600,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-134,text,true,,11185,247,235,235,http://blazedemo.com//reserve.php,600,0,283
+1560681436810,555,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-21,text,true,,8550,117,235,235,http://blazedemo.com//,555,0,261
+1560681437272,542,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-133,text,true,,11185,247,236,236,http://blazedemo.com//reserve.php,541,0,262
+1560681437316,544,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-135,text,true,,11185,247,236,236,http://blazedemo.com//reserve.php,544,0,267
+1560681437811,593,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-136,text,true,,11185,247,237,237,http://blazedemo.com//reserve.php,588,0,294
+1560681437810,599,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-236,text,true,,8550,117,237,237,http://blazedemo.com//,594,0,295
+1560681437900,527,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-22,text,true,,10551,296,237,237,http://blazedemo.com//purchase.php,527,0,257
+1560681437889,586,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-23,text,true,,10551,296,236,236,http://blazedemo.com//purchase.php,586,0,288
+1560681438313,533,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-237,text,true,,8550,117,236,236,http://blazedemo.com//,533,0,257
+1560681438285,563,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-137,text,true,,11185,247,236,236,http://blazedemo.com//reserve.php,562,0,274
+1560681438810,540,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-22,text,true,,8550,117,237,237,http://blazedemo.com//,540,0,264
+1560681438907,569,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-24,text,true,,10550,295,237,237,http://blazedemo.com//purchase.php,568,0,269
+1560681438907,584,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-138,text,true,,11185,247,236,236,http://blazedemo.com//reserve.php,583,0,291
+1560681439309,516,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-23,text,true,,8550,117,237,237,http://blazedemo.com//,515,0,250
+1560681439532,534,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-139,text,true,,11185,247,237,237,http://blazedemo.com//reserve.php,532,0,262
+1560681439811,595,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-24,text,true,,8550,117,238,238,http://blazedemo.com//,594,0,291
+1560681439996,547,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-25,text,true,,10552,297,238,238,http://blazedemo.com//purchase.php,546,0,270
+1560681437313,3242,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-235,text,true,,8550,117,237,237,http://blazedemo.com//,2592,0,2302
+1560681440313,573,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-238,text,true,,8550,117,238,238,http://blazedemo.com//,573,0,281
+1560681439817,1550,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-140,text,true,,11185,247,239,239,http://blazedemo.com//reserve.php,1550,0,1273
+1560681440809,564,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-25,text,true,,8550,117,239,239,http://blazedemo.com//,564,0,279
+1560681441266,538,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-141,text,true,,11185,247,239,239,http://blazedemo.com//reserve.php,521,0,256
+1560681441279,526,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-143,text,true,,11185,247,239,239,http://blazedemo.com//reserve.php,525,0,251
+1560681441311,549,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-239,text,true,,8550,117,240,240,http://blazedemo.com//,549,0,259
+1560681440733,1559,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-142,text,true,,11185,247,240,240,http://blazedemo.com//reserve.php,1556,0,1281
+1560681441772,542,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-144,text,true,,11185,247,241,241,http://blazedemo.com//reserve.php,542,0,258
+1560681441810,579,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-240,text,true,,8550,117,241,241,http://blazedemo.com//,568,0,278
+1560681441871,545,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-26,text,true,,10544,289,241,241,http://blazedemo.com//purchase.php,545,0,263
+1560681441905,588,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-27,text,true,,10546,291,240,240,http://blazedemo.com//purchase.php,588,0,286
+1560681442311,551,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-241,text,true,,8550,117,240,240,http://blazedemo.com//,551,0,270
+1560681442809,545,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-27,text,true,,8550,117,241,241,http://blazedemo.com//,544,0,262
+1560681443309,602,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-26,text,true,,8550,117,242,242,http://blazedemo.com//,601,0,321
+1560681443811,576,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-242,text,true,,8550,117,243,243,http://blazedemo.com//,574,0,274
+1560681444310,589,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-243,text,true,,8550,117,244,244,http://blazedemo.com//,589,0,261
+1560681444810,582,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-244,text,true,,8550,117,245,245,http://blazedemo.com//,581,0,295
+1560681445017,549,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-145,text,true,,11185,247,245,245,http://blazedemo.com//reserve.php,549,0,267
+1560681445311,538,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-245,text,true,,8550,117,246,246,http://blazedemo.com//,536,0,263
+1560681445812,608,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-246,text,true,,8550,117,247,247,http://blazedemo.com//,608,0,272
+1560681446092,543,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-149,text,true,,11185,247,247,247,http://blazedemo.com//reserve.php,543,0,261
+1560681446137,576,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-30,text,true,,10547,292,247,247,http://blazedemo.com//purchase.php,576,0,283
+1560681446137,579,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-151,text,true,,11185,247,246,246,http://blazedemo.com//reserve.php,579,0,283
+1560681446137,624,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-150,text,true,,11185,247,246,246,http://blazedemo.com//reserve.php,579,0,283
+1560681446311,583,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-247,text,true,,8551,117,247,247,http://blazedemo.com//,583,0,234
+1560681446448,502,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-152,text,true,,11186,247,247,247,http://blazedemo.com//reserve.php,501,0,238
+1560681446435,516,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-31,text,true,,10552,296,247,247,http://blazedemo.com//purchase.php,515,0,251
+1560681446544,601,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-153,text,true,,11186,247,246,246,http://blazedemo.com//reserve.php,600,0,349
+1560681446809,523,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-30,text,true,,8551,117,247,247,http://blazedemo.com//,523,0,252
+1560681446866,512,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-146,text,true,,11186,247,247,247,http://blazedemo.com//reserve.php,466,0,224
+1560681446867,512,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-154,text,true,,11186,247,247,247,http://blazedemo.com//reserve.php,511,0,223
+1560681446866,529,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-147,text,true,,11186,247,247,247,http://blazedemo.com//reserve.php,513,0,224
+1560681446867,528,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-32,text,true,,10546,291,247,247,http://blazedemo.com//purchase.php,528,0,223
+1560681447100,480,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-28,text,true,,10550,294,246,246,http://blazedemo.com//purchase.php,480,0,232
+1560681447378,425,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-34,text,true,,10551,296,245,245,http://blazedemo.com//purchase.php,425,0,208
+1560681447341,481,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-155,text,true,,11185,247,245,245,http://blazedemo.com//reserve.php,481,0,220
+1560681447311,511,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-31,text,true,,8550,117,245,245,http://blazedemo.com//,511,0,227
+1560681447767,453,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-156,text,true,,11185,247,245,245,http://blazedemo.com//reserve.php,452,0,228
+1560681447810,462,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-32,text,true,,8550,117,245,245,http://blazedemo.com//,461,0,224
+1560681447879,456,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-35,text,true,,10546,291,246,246,http://blazedemo.com//purchase.php,456,0,206
+1560681447879,457,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-33,text,true,,10546,291,245,245,http://blazedemo.com//purchase.php,457,0,217
+1560681448292,446,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-157,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,446,0,218
+1560681448518,847,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-36,text,true,,10547,292,246,246,http://blazedemo.com//purchase.php,831,0,219
+1560681448812,752,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-33,text,true,,8550,117,245,245,http://blazedemo.com//,752,0,524
+1560681448938,649,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-37,text,true,,10551,296,245,245,http://blazedemo.com//purchase.php,649,0,402
+1560681448814,790,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-158,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,790,0,551
+1560681449256,461,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-159,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,460,0,211
+1560681449310,448,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-35,text,true,,8550,117,244,244,http://blazedemo.com//,448,0,212
+1560681449401,478,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-38,text,true,,10551,296,245,245,http://blazedemo.com//purchase.php,478,0,232
+1560681449766,474,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-160,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,473,0,230
+1560681449856,476,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-39,text,true,,10551,296,245,245,http://blazedemo.com//purchase.php,473,0,230
+1560681448311,2288,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-34,text,true,,8551,117,244,244,http://blazedemo.com//,2288,0,1227
+1560681450213,463,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-148,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,463,0,223
+1560681450237,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-161,text,true,,11186,247,244,244,http://blazedemo.com//reserve.php,441,0,217
+1560681450310,506,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-28,text,true,,8550,117,245,245,http://blazedemo.com//,506,0,225
+1560681450466,504,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-40,text,true,,10550,295,245,245,http://blazedemo.com//purchase.php,504,0,215
+1560681449808,1488,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-37,text,true,,8550,117,244,244,http://blazedemo.com//,1487,0,1247
+1560681450810,486,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-38,text,true,,8550,117,244,244,http://blazedemo.com//,486,0,245
+1560681450773,617,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-162,text,true,,11185,247,245,245,http://blazedemo.com//reserve.php,523,0,282
+1560681450922,490,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-41,text,true,,10545,290,245,245,http://blazedemo.com//purchase.php,490,0,240
+1560681450221,1454,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-29,text,true,,10550,295,244,244,http://blazedemo.com//purchase.php,1453,0,1231
+1560681451308,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-40,text,true,,8550,117,243,243,http://blazedemo.com//,450,0,229
+1560681451432,425,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-42,text,true,,10545,290,244,244,http://blazedemo.com//purchase.php,425,0,206
+1560681451756,461,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-164,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,461,0,226
+1560681451808,446,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-41,text,true,,8550,117,243,243,http://blazedemo.com//,445,0,217
+1560681451885,543,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-43,text,true,,10552,296,244,244,http://blazedemo.com//purchase.php,543,0,224
+1560681451270,1368,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-163,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,1368,0,233
+1560681452258,478,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-165,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,478,0,230
+1560681452309,445,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-29,text,true,,8550,117,243,243,http://blazedemo.com//,444,0,217
+1560681452422,429,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-44,text,true,,10550,295,244,244,http://blazedemo.com//purchase.php,426,0,208
+1560681452779,454,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-166,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,453,0,221
+1560681452808,459,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-42,text,true,,8550,117,243,243,http://blazedemo.com//,459,0,225
+1560681452866,431,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-45,text,true,,10549,294,243,243,http://blazedemo.com//purchase.php,430,0,206
+1560681453310,468,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-45,text,true,,8550,117,243,243,http://blazedemo.com//,463,0,245
+1560681453416,479,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-46,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,478,0,246
+1560681453741,462,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-168,text,true,,11186,247,243,243,http://blazedemo.com//reserve.php,462,0,214
+1560681453813,464,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-44,text,true,,8550,117,243,243,http://blazedemo.com//,464,0,214
+1560681453946,483,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-47,text,true,,10552,296,244,244,http://blazedemo.com//purchase.php,483,0,256
+1560681454310,442,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-46,text,true,,8550,117,243,243,http://blazedemo.com//,442,0,213
+1560681454380,453,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-169,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,447,0,211
+1560681454450,474,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-167,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,474,0,233
+1560681454500,497,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-48,text,true,,10549,294,244,244,http://blazedemo.com//purchase.php,497,0,212
+1560681454811,508,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-47,text,true,,8550,117,244,244,http://blazedemo.com//,508,0,251
+1560681454927,444,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-49,text,true,,10549,294,244,244,http://blazedemo.com//purchase.php,444,0,215
+1560681455311,452,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-43,text,true,,8550,117,243,243,http://blazedemo.com//,452,0,221
+1560681455810,439,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-49,text,true,,8550,117,244,244,http://blazedemo.com//,438,0,216
+1560681455918,528,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-50,text,true,,10550,295,245,245,http://blazedemo.com//purchase.php,419,0,202
+1560681456147,529,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-51,text,true,,10546,290,244,244,http://blazedemo.com//purchase.php,528,0,299
+1560681456125,550,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-171,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,550,0,321
+1560681456125,556,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-172,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,556,0,321
+1560681456290,454,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-173,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,454,0,218
+1560681456314,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-48,text,true,,8550,117,243,243,http://blazedemo.com//,451,0,214
+1560681456413,425,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-52,text,true,,10549,294,244,244,http://blazedemo.com//purchase.php,425,0,209
+1560681456471,438,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-170,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,437,0,205
+1560681456764,448,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-174,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,445,0,219
+1560681457225,511,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-53,text,true,,10547,292,244,244,http://blazedemo.com//purchase.php,511,0,277
+1560681457311,518,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-50,text,true,,8550,117,244,244,http://blazedemo.com//,518,0,233
+1560681457473,450,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-54,text,true,,10549,295,244,244,http://blazedemo.com//purchase.php,449,0,219
+1560681457473,469,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-175,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,465,0,229
+1560681457809,462,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-52,text,true,,8550,117,243,243,http://blazedemo.com//,462,0,229
+1560681456810,1484,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-51,text,true,,8550,117,243,243,http://blazedemo.com//,1483,0,1242
+1560681457864,472,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-176,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,471,0,222
+1560681457925,451,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-55,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,451,0,221
+1560681458247,457,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-177,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,456,0,223
+1560681458309,461,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-54,text,true,,8550,117,243,243,http://blazedemo.com//,436,0,217
+1560681458462,442,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-56,text,true,,10545,290,244,244,http://blazedemo.com//purchase.php,441,0,221
+1560681458777,505,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-178,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,504,0,203
+1560681458809,474,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-53,text,true,,8550,117,243,243,http://blazedemo.com//,473,0,226
+1560681459310,552,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-55,text,true,,8550,117,245,245,http://blazedemo.com//,552,0,303
+1560681459309,554,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-179,text,true,,11185,247,245,245,http://blazedemo.com//reserve.php,554,0,304
+1560681459350,567,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-58,text,true,,10547,292,245,245,http://blazedemo.com//purchase.php,513,0,290
+1560681459770,466,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-180,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,466,0,225
+1560681459810,444,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-56,text,true,,8550,117,244,244,http://blazedemo.com//,443,0,220
+1560681459954,450,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-59,text,true,,10550,295,245,245,http://blazedemo.com//purchase.php,450,0,219
+1560681460245,490,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-181,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,489,0,232
+1560681460310,462,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-58,text,true,,8550,117,244,244,http://blazedemo.com//,462,0,221
+1560681458921,1888,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-57,text,true,,10546,290,245,245,http://blazedemo.com//purchase.php,1888,0,360
+1560681460352,459,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-60,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,459,0,234
+1560681460767,455,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-182,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,454,0,212
+1560681460810,423,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-59,text,true,,8550,117,243,243,http://blazedemo.com//,423,0,210
+1560681460868,454,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-61,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,450,0,223
+1560681461317,456,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-183,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,456,0,223
+1560681461309,471,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-60,text,true,,8550,117,243,243,http://blazedemo.com//,469,0,231
+1560681461742,441,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-62,text,true,,10552,296,244,244,http://blazedemo.com//purchase.php,441,0,218
+1560681461805,431,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-184,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,431,0,205
+1560681461811,446,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-61,text,true,,8550,117,243,243,http://blazedemo.com//,446,0,217
+1560681461976,468,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-63,text,true,,10546,291,244,244,http://blazedemo.com//purchase.php,468,0,229
+1560681462258,460,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-185,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,460,0,231
+1560681462312,498,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-62,text,true,,8550,117,243,243,http://blazedemo.com//,498,0,264
+1560681462401,443,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-64,text,true,,10547,292,244,244,http://blazedemo.com//purchase.php,443,0,213
+1560681462781,513,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-186,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,513,0,227
+1560681462812,482,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-63,text,true,,8550,117,243,243,http://blazedemo.com//,482,0,225
+1560681463311,540,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-64,text,true,,8550,117,245,245,http://blazedemo.com//,540,0,313
+1560681463268,583,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-187,text,true,,11185,247,245,245,http://blazedemo.com//reserve.php,583,0,356
+1560681463766,447,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-66,text,true,,10551,296,245,245,http://blazedemo.com//purchase.php,447,0,218
+1560681463751,463,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-188,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,463,0,223
+1560681463762,468,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-65,text,true,,10545,290,244,244,http://blazedemo.com//purchase.php,457,0,222
+1560681463811,493,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-57,text,true,,8550,117,243,243,http://blazedemo.com//,493,0,217
+1560681464268,445,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-189,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,445,0,217
+1560681464309,428,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-66,text,true,,8550,117,244,244,http://blazedemo.com//,428,0,213
+1560681464422,465,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-68,text,true,,10549,294,245,245,http://blazedemo.com//purchase.php,465,0,239
+1560681464773,455,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-190,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,455,0,222
+1560681464783,446,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-67,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,445,0,215
+1560681464810,488,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-65,text,true,,8550,117,243,243,http://blazedemo.com//,488,0,228
+1560681464942,422,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-69,text,true,,10546,291,244,244,http://blazedemo.com//purchase.php,422,0,204
+1560681465311,471,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-68,text,true,,8550,117,243,243,http://blazedemo.com//,471,0,227
+1560681465367,615,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-191,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,614,0,386
+1560681465391,592,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-70,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,592,0,362
+1560681465786,469,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-192,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,469,0,230
+1560681465809,458,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-69,text,true,,8550,117,243,243,http://blazedemo.com//,458,0,223
+1560681465980,444,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-71,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,444,0,206
+1560681466311,495,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-70,text,true,,8550,117,243,243,http://blazedemo.com//,495,0,268
+1560681466367,475,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-72,text,true,,10549,294,244,244,http://blazedemo.com//purchase.php,446,0,217
+1560681466756,442,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-194,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,441,0,216
+1560681466809,419,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-71,text,true,,8550,117,243,243,http://blazedemo.com//,419,0,204
+1560681467205,457,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-73,text,true,,10549,294,244,244,http://blazedemo.com//purchase.php,452,0,213
+1560681467311,445,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-67,text,true,,8550,117,243,243,http://blazedemo.com//,445,0,217
+1560681467429,695,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-193,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,695,0,228
+1560681467812,621,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-73,text,true,,8550,117,245,245,http://blazedemo.com//,621,0,312
+1560681467758,675,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-196,text,true,,11185,247,245,245,http://blazedemo.com//reserve.php,675,0,366
+1560681467964,700,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-75,text,true,,10551,296,245,245,http://blazedemo.com//purchase.php,699,0,468
+1560681468272,417,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-197,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,417,0,203
+1560681467443,1299,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-195,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,1298,0,219
+1560681468314,452,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-72,text,true,,8550,117,244,244,http://blazedemo.com//,452,0,225
+1560681467434,1362,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-74,text,true,,10550,295,244,244,http://blazedemo.com//purchase.php,1362,0,228
+1560681468428,486,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-76,text,true,,10545,290,244,244,http://blazedemo.com//purchase.php,485,0,227
+1560681468767,497,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-198,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,496,0,236
+1560681468813,473,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-75,text,true,,8550,117,243,243,http://blazedemo.com//,473,0,228
+1560681468869,463,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-77,text,true,,10545,290,244,244,http://blazedemo.com//purchase.php,463,0,224
+1560681469293,471,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-199,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,471,0,245
+1560681469309,490,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-76,text,true,,8550,117,243,243,http://blazedemo.com//,489,0,250
+1560681469420,442,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-78,text,true,,10552,296,244,244,http://blazedemo.com//purchase.php,441,0,215
+1560681469767,463,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-200,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,463,0,223
+1560681469809,445,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-77,text,true,,8550,117,243,243,http://blazedemo.com//,443,0,224
+1560681469961,495,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-79,text,true,,10550,296,244,244,http://blazedemo.com//purchase.php,494,0,223
+1560681470309,445,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-78,text,true,,8550,117,243,243,http://blazedemo.com//,445,0,214
+1560681470291,470,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-201,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,469,0,228
+1560681470401,431,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-80,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,430,0,207
+1560681470764,436,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-202,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,436,0,212
+1560681470811,443,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-79,text,true,,8550,117,243,243,http://blazedemo.com//,443,0,217
+1560681470933,443,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-81,text,true,,10544,289,244,244,http://blazedemo.com//purchase.php,441,0,215
+1560681471268,459,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-203,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,459,0,222
+1560681471311,451,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-80,text,true,,8550,117,243,243,http://blazedemo.com//,451,0,215
+1560681471351,464,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-82,text,true,,10545,290,244,244,http://blazedemo.com//purchase.php,464,0,224
+1560681471762,426,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-204,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,426,0,209
+1560681471813,438,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-81,text,true,,8550,117,243,243,http://blazedemo.com//,437,0,213
+1560681471883,448,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-83,text,true,,10545,290,244,244,http://blazedemo.com//purchase.php,447,0,215
+1560681472294,437,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-205,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,437,0,213
+1560681472309,469,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-82,text,true,,8550,117,243,243,http://blazedemo.com//,466,0,231
+1560681472415,438,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-84,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,437,0,215
+1560681472809,444,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-83,text,true,,8550,117,243,243,http://blazedemo.com//,444,0,215
+1560681472784,472,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-206,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,472,0,236
+1560681472923,487,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-85,text,true,,10549,294,244,244,http://blazedemo.com//purchase.php,487,0,230
+1560681473311,496,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-74,text,true,,8550,117,243,243,http://blazedemo.com//,496,0,211
+1560681473372,696,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-86,text,true,,10548,292,244,244,http://blazedemo.com//purchase.php,696,0,434
+1560681473967,465,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-87,text,true,,10551,296,244,244,http://blazedemo.com//purchase.php,465,0,213
+1560681474309,454,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-86,text,true,,8550,117,243,243,http://blazedemo.com//,454,0,218
+1560681474401,521,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-88,text,true,,10553,297,244,244,http://blazedemo.com//purchase.php,521,0,217
+1560681474379,543,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-209,text,true,,11185,247,244,244,http://blazedemo.com//reserve.php,543,0,239
+1560681473775,1333,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-208,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,1333,0,229
+1560681474786,529,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-210,text,true,,11185,247,243,243,http://blazedemo.com//reserve.php,529,0,298
+1560681474878,451,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-89,text,true,,10550,294,243,243,http://blazedemo.com//purchase.php,451,0,215
+1560681474810,520,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-84,text,true,,8550,117,243,243,http://blazedemo.com//,520,0,274
+1560681473328,2356,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-207,text,true,,11185,247,241,241,http://blazedemo.com//reserve.php,2356,0,478
+1560681475264,470,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-211,text,true,,11185,247,240,240,http://blazedemo.com//reserve.php,470,0,229
+1560681473809,2038,Landing page,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-85,text,true,,8550,117,239,239,http://blazedemo.com//,1506,0,1275
+1560681475391,459,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-90,text,true,,10547,292,238,238,http://blazedemo.com//purchase.php,459,0,222
+1560681475763,451,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-212,text,true,,11185,247,237,237,http://blazedemo.com//reserve.php,451,0,222
+1560681475905,466,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-91,text,true,,10543,289,236,236,http://blazedemo.com//purchase.php,466,0,231
+1560681476234,476,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-92,text,true,,10549,294,235,235,http://blazedemo.com//purchase.php,476,0,216
+1560681476267,461,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-213,text,true,,11185,247,234,234,http://blazedemo.com//reserve.php,461,0,221
+1560681476867,527,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-214,text,true,,11186,247,233,233,http://blazedemo.com//reserve.php,527,0,287
+1560681476825,570,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-93,text,true,,10552,296,233,233,http://blazedemo.com//purchase.php,570,0,329
+1560681477282,472,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-94,text,true,,10547,291,231,231,http://blazedemo.com//purchase.php,472,0,227
+1560681477353,474,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-215,text,true,,11185,247,230,230,http://blazedemo.com//reserve.php,470,0,233
+1560681477776,598,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-95,text,true,,10549,294,229,229,http://blazedemo.com//purchase.php,597,0,231
+1560681477917,457,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-1,text,true,,11185,247,228,228,http://blazedemo.com//reserve.php,457,0,218
+1560681478367,435,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-2,text,true,,11185,247,227,227,http://blazedemo.com//reserve.php,435,0,212
+1560681478914,453,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-216,text,true,,11185,247,226,226,http://blazedemo.com//reserve.php,453,0,226
+1560681478930,459,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-97,text,true,,10547,292,225,225,http://blazedemo.com//purchase.php,458,0,221
+1560681479291,488,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-96,text,true,,10545,290,224,224,http://blazedemo.com//purchase.php,488,0,248
+1560681479345,472,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-98,text,true,,10546,290,223,223,http://blazedemo.com//purchase.php,471,0,234
+1560681479345,476,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-3,text,true,,11185,247,222,222,http://blazedemo.com//reserve.php,475,0,234
+1560681479843,443,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-99,text,true,,10546,291,221,221,http://blazedemo.com//purchase.php,441,0,213
+1560681479901,414,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-217,text,true,,11185,247,220,220,http://blazedemo.com//reserve.php,414,0,201
+1560681480371,436,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-100,text,true,,10546,291,219,219,http://blazedemo.com//purchase.php,436,0,213
+1560681480371,464,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-4,text,true,,11185,247,218,218,http://blazedemo.com//reserve.php,463,0,225
+1560681480875,441,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-218,text,true,,11185,247,217,217,http://blazedemo.com//reserve.php,441,0,215
+1560681481382,441,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-102,text,true,,10552,297,216,216,http://blazedemo.com//purchase.php,441,0,214
+1560681481440,464,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-5,text,true,,11185,247,215,215,http://blazedemo.com//reserve.php,459,0,224
+1560681481801,456,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-101,text,true,,10552,297,214,214,http://blazedemo.com//purchase.php,456,0,222
+1560681481840,466,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-103,text,true,,10544,289,213,213,http://blazedemo.com//purchase.php,465,0,230
+1560681481872,483,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-219,text,true,,11185,247,212,212,http://blazedemo.com//reserve.php,482,0,256
+1560681482318,450,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-104,text,true,,10550,295,211,211,http://blazedemo.com//purchase.php,450,0,213
+1560681482354,467,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-6,text,true,,11185,247,210,210,http://blazedemo.com//reserve.php,467,0,228
+1560681482822,437,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-105,text,true,,10551,295,209,209,http://blazedemo.com//purchase.php,437,0,213
+1560681482882,441,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-220,text,true,,11185,247,208,208,http://blazedemo.com//reserve.php,440,0,214
+1560681483299,447,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-106,text,true,,10545,290,207,207,http://blazedemo.com//purchase.php,444,0,219
+1560681483352,446,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-221,text,true,,11185,247,206,206,http://blazedemo.com//reserve.php,445,0,220
+1560681483878,417,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-107,text,true,,10545,290,205,205,http://blazedemo.com//purchase.php,417,0,200
+1560681483896,458,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-222,text,true,,11185,247,204,204,http://blazedemo.com//reserve.php,458,0,231
+1560681484326,465,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-108,text,true,,10544,289,203,203,http://blazedemo.com//purchase.php,465,0,226
+1560681484383,415,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-7,text,true,,11185,247,202,202,http://blazedemo.com//reserve.php,415,0,201
+1560681484892,444,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-109,text,true,,10550,294,201,201,http://blazedemo.com//purchase.php,443,0,216
+1560681484892,458,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-8,text,true,,11185,247,200,200,http://blazedemo.com//reserve.php,458,0,222
+1560681485326,445,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-110,text,true,,10546,290,199,199,http://blazedemo.com//purchase.php,445,0,218
+1560681485347,533,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-9,text,true,,11185,247,198,198,http://blazedemo.com//reserve.php,533,0,232
+1560681485962,566,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-223,text,true,,11185,247,197,197,http://blazedemo.com//reserve.php,566,0,350
+1560681485912,642,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-111,text,true,,10550,295,196,196,http://blazedemo.com//purchase.php,642,0,400
+1560681486293,472,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-112,text,true,,10547,292,195,195,http://blazedemo.com//purchase.php,472,0,235
+1560681486352,645,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-10,text,true,,11185,247,194,194,http://blazedemo.com//reserve.php,645,0,413
+1560681486818,476,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-113,text,true,,10549,294,193,193,http://blazedemo.com//purchase.php,476,0,232
+1560681486922,488,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-224,text,true,,11185,247,192,192,http://blazedemo.com//reserve.php,488,0,226
+1560681487295,487,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-114,text,true,,10551,295,191,191,http://blazedemo.com//purchase.php,487,0,238
+1560681487373,551,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-11,text,true,,11185,247,190,190,http://blazedemo.com//reserve.php,551,0,274
+1560681487828,472,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-115,text,true,,10549,294,189,189,http://blazedemo.com//purchase.php,472,0,235
+1560681488096,526,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-225,text,true,,11185,247,188,188,http://blazedemo.com//reserve.php,525,0,229
+1560681488602,525,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-12,text,true,,11185,247,187,187,http://blazedemo.com//reserve.php,525,0,285
+1560681488602,526,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-116,text,true,,10551,296,186,186,http://blazedemo.com//purchase.php,526,0,285
+1560681488946,465,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-117,text,true,,10546,290,185,185,http://blazedemo.com//purchase.php,465,0,230
+1560681489119,494,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-226,text,true,,11185,247,184,184,http://blazedemo.com//reserve.php,493,0,225
+1560681489342,489,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-118,text,true,,10545,290,183,183,http://blazedemo.com//purchase.php,489,0,224
+1560681489403,466,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-227,text,true,,11185,247,182,182,http://blazedemo.com//reserve.php,465,0,223
+1560681489796,552,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-119,text,true,,10551,296,181,181,http://blazedemo.com//purchase.php,551,0,289
+1560681489839,510,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-13,text,true,,11185,247,180,180,http://blazedemo.com//reserve.php,509,0,246
+1560681490327,476,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-120,text,true,,10544,289,179,179,http://blazedemo.com//purchase.php,475,0,235
+1560681490408,429,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-14,text,true,,11185,247,178,178,http://blazedemo.com//reserve.php,428,0,214
+1560681490826,440,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-121,text,true,,10550,296,177,177,http://blazedemo.com//purchase.php,439,0,214
+1560681490881,432,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-228,text,true,,11185,247,176,176,http://blazedemo.com//reserve.php,431,0,206
+1560681491323,424,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-15,text,true,,11185,247,175,175,http://blazedemo.com//reserve.php,419,0,205
+1560681491383,445,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-122,text,true,,10545,290,174,174,http://blazedemo.com//purchase.php,445,0,206
+1560681491806,470,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-123,text,true,,10552,297,173,173,http://blazedemo.com//purchase.php,466,0,240
+1560681491875,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-229,text,true,,11186,247,172,172,http://blazedemo.com//reserve.php,442,0,219
+1560681492332,447,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-16,text,true,,11185,247,171,171,http://blazedemo.com//reserve.php,446,0,221
+1560681492351,432,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-124,text,true,,10551,296,170,170,http://blazedemo.com//purchase.php,432,0,210
+1560681492935,542,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-230,text,true,,11185,247,169,169,http://blazedemo.com//reserve.php,541,0,305
+1560681493352,448,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-126,text,true,,10550,295,168,168,http://blazedemo.com//purchase.php,445,0,214
+1560681493928,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-231,text,true,,11185,247,167,167,http://blazedemo.com//reserve.php,442,0,213
+1560681493928,460,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-127,text,true,,10551,295,166,166,http://blazedemo.com//purchase.php,459,0,224
+1560681492935,1653,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-125,text,true,,10549,294,165,165,http://blazedemo.com//purchase.php,1653,0,305
+1560681494306,443,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-128,text,true,,10550,295,164,164,http://blazedemo.com//purchase.php,442,0,212
+1560681493389,1463,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-17,text,true,,11185,247,163,163,http://blazedemo.com//reserve.php,1462,0,1227
+1560681494561,425,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-18,text,true,,11185,247,162,162,http://blazedemo.com//reserve.php,424,0,206
+1560681494852,440,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-129,text,true,,10550,295,161,161,http://blazedemo.com//purchase.php,439,0,214
+1560681494879,459,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-232,text,true,,11185,247,160,160,http://blazedemo.com//reserve.php,458,0,221
+1560681495320,766,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-19,text,true,,11185,247,159,159,http://blazedemo.com//reserve.php,765,0,216
+1560681495801,506,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-131,text,true,,10550,294,158,158,http://blazedemo.com//purchase.php,506,0,285
+1560681495822,494,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-233,text,true,,11185,247,157,157,http://blazedemo.com//reserve.php,494,0,264
+1560681495341,989,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-130,text,true,,10545,290,156,156,http://blazedemo.com//purchase.php,988,0,744
+1560681496329,425,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-20,text,true,,11185,247,155,155,http://blazedemo.com//reserve.php,425,0,207
+1560681496572,577,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-132,text,true,,10551,295,154,154,http://blazedemo.com//purchase.php,576,0,340
+1560681496854,454,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-234,text,true,,11185,247,153,153,http://blazedemo.com//reserve.php,454,0,216
+1560681497371,417,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-21,text,true,,11185,247,152,152,http://blazedemo.com//reserve.php,416,0,202
+1560681497367,502,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-134,text,true,,10552,297,151,151,http://blazedemo.com//purchase.php,501,0,224
+1560681497817,447,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-133,text,true,,10546,291,150,150,http://blazedemo.com//purchase.php,446,0,211
+1560681497865,451,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-135,text,true,,10552,297,149,149,http://blazedemo.com//purchase.php,450,0,223
+1560681498407,450,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-136,text,true,,10550,296,148,148,http://blazedemo.com//purchase.php,449,0,214
+1560681498415,442,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-236,text,true,,11185,247,147,147,http://blazedemo.com//reserve.php,442,0,213
+1560681498851,450,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-137,text,true,,10545,290,146,146,http://blazedemo.com//purchase.php,450,0,212
+1560681498851,474,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-237,text,true,,11185,247,145,145,http://blazedemo.com//reserve.php,474,0,225
+1560681499356,475,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-22,text,true,,11185,247,144,144,http://blazedemo.com//reserve.php,474,0,237
+1560681499492,492,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-138,text,true,,10546,291,143,143,http://blazedemo.com//purchase.php,488,0,240
+1560681499826,484,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-23,text,true,,11185,247,142,142,http://blazedemo.com//reserve.php,484,0,228
+1560681500068,442,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-139,text,true,,10549,294,141,141,http://blazedemo.com//purchase.php,442,0,217
+1560681500409,454,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-24,text,true,,11185,247,140,140,http://blazedemo.com//reserve.php,454,0,218
+1560681500557,523,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-235,text,true,,11186,247,139,139,http://blazedemo.com//reserve.php,523,0,233
+1560681500889,468,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-238,text,true,,11185,247,138,138,http://blazedemo.com//reserve.php,443,0,217
+1560681501374,421,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-140,text,true,,10550,295,137,137,http://blazedemo.com//purchase.php,421,0,205
+1560681501380,459,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-25,text,true,,11185,247,136,136,http://blazedemo.com//reserve.php,459,0,231
+1560681501810,463,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-143,text,true,,10551,296,135,135,http://blazedemo.com//purchase.php,462,0,223
+1560681501810,467,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-141,text,true,,10551,296,134,134,http://blazedemo.com//purchase.php,467,0,223
+1560681501867,435,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-239,text,true,,11185,247,133,133,http://blazedemo.com//reserve.php,433,0,211
+1560681502298,436,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-142,text,true,,10552,296,132,132,http://blazedemo.com//purchase.php,436,0,213
+1560681502321,449,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-144,text,true,,10546,291,131,131,http://blazedemo.com//purchase.php,439,0,213
+1560681502393,441,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-240,text,true,,11185,247,130,130,http://blazedemo.com//reserve.php,440,0,216
+1560681502868,435,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-241,text,true,,11185,247,129,129,http://blazedemo.com//reserve.php,435,0,212
+1560681503918,459,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-26,text,true,,11185,247,128,128,http://blazedemo.com//reserve.php,458,0,224
+1560681503358,1336,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-27,text,true,,11185,247,127,127,http://blazedemo.com//reserve.php,1336,0,224
+1560681504393,415,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-242,text,true,,11185,247,126,126,http://blazedemo.com//reserve.php,414,0,200
+1560681505395,437,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-244,text,true,,11185,247,125,125,http://blazedemo.com//reserve.php,437,0,212
+1560681505573,441,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-145,text,true,,10545,290,124,124,http://blazedemo.com//purchase.php,441,0,204
+1560681504905,1362,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-243,text,true,,11185,247,123,123,http://blazedemo.com//reserve.php,1362,0,231
+1560681505852,468,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-245,text,true,,11185,247,122,122,http://blazedemo.com//reserve.php,468,0,232
+1560681506640,461,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-149,text,true,,10552,297,121,121,http://blazedemo.com//purchase.php,461,0,210
+1560681506719,459,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-151,text,true,,10551,296,120,120,http://blazedemo.com//purchase.php,459,0,215
+1560681506899,710,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-247,text,true,,11185,247,119,119,http://blazedemo.com//reserve.php,710,0,219
+1560681506766,863,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-150,text,true,,10545,290,118,118,http://blazedemo.com//purchase.php,862,0,225
+1560681507339,474,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-30,text,true,,11185,247,117,117,http://blazedemo.com//reserve.php,473,0,255
+1560681506955,862,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-152,text,true,,10551,296,116,116,http://blazedemo.com//purchase.php,861,0,639
+1560681507387,454,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-154,text,true,,10545,289,115,115,http://blazedemo.com//purchase.php,454,0,222
+1560681507383,779,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-146,text,true,,10544,289,114,114,http://blazedemo.com//purchase.php,779,0,226
+1560681507152,1011,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-153,text,true,,10552,297,113,113,http://blazedemo.com//purchase.php,1010,0,457
+1560681507402,776,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-147,text,true,,10552,297,112,112,http://blazedemo.com//purchase.php,776,0,227
+1560681506423,1756,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-246,text,true,,11185,247,111,111,http://blazedemo.com//reserve.php,1755,0,1242
+1560681507825,588,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-155,text,true,,10546,291,110,110,http://blazedemo.com//purchase.php,588,0,357
+1560681507825,589,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-31,text,true,,11186,247,109,109,http://blazedemo.com//reserve.php,588,0,357
+1560681508224,447,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-156,text,true,,10550,295,108,108,http://blazedemo.com//purchase.php,447,0,214
+1560681508277,554,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-32,text,true,,11186,247,107,107,http://blazedemo.com//reserve.php,554,0,240
+1560681508746,443,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-157,text,true,,10549,294,106,106,http://blazedemo.com//purchase.php,442,0,214
+1560681509568,447,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-33,text,true,,11185,247,105,105,http://blazedemo.com//reserve.php,447,0,214
+1560681509612,417,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-158,text,true,,10552,297,104,104,http://blazedemo.com//purchase.php,416,0,201
+1560681509724,431,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-159,text,true,,10551,296,103,103,http://blazedemo.com//purchase.php,422,0,205
+1560681509765,452,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-35,text,true,,11185,247,102,102,http://blazedemo.com//reserve.php,451,0,224
+1560681510246,454,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-160,text,true,,10552,297,101,101,http://blazedemo.com//purchase.php,453,0,221
+1560681510605,452,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-34,text,true,,11185,247,100,100,http://blazedemo.com//reserve.php,452,0,225
+1560681510679,455,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-148,text,true,,10550,295,99,99,http://blazedemo.com//purchase.php,454,0,216
+1560681510684,450,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-161,text,true,,10550,295,98,98,http://blazedemo.com//purchase.php,450,0,216
+1560681510819,461,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-28,text,true,,11185,247,97,97,http://blazedemo.com//reserve.php,461,0,222
+1560681511302,488,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-38,text,true,,11185,247,96,96,http://blazedemo.com//reserve.php,485,0,246
+1560681511302,489,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-37,text,true,,11185,247,96,96,http://blazedemo.com//reserve.php,488,0,246
+1560681511392,454,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-162,text,true,,10546,291,94,94,http://blazedemo.com//purchase.php,453,0,220
+1560681511764,440,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-40,text,true,,11185,247,93,93,http://blazedemo.com//reserve.php,440,0,212
+1560681512223,452,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-164,text,true,,10544,289,92,92,http://blazedemo.com//purchase.php,452,0,225
+1560681512258,437,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-41,text,true,,11185,247,91,91,http://blazedemo.com//reserve.php,437,0,213
+1560681512642,484,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-163,text,true,,10546,291,90,90,http://blazedemo.com//purchase.php,477,0,241
+1560681512738,441,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-165,text,true,,10546,290,89,89,http://blazedemo.com//purchase.php,441,0,214
+1560681512760,464,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-29,text,true,,11185,247,88,88,http://blazedemo.com//reserve.php,464,0,227
+1560681513238,424,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-166,text,true,,10544,289,87,87,http://blazedemo.com//purchase.php,424,0,207
+1560681513268,424,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-42,text,true,,11185,247,86,86,http://blazedemo.com//reserve.php,424,0,210
+1560681513779,453,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-45,text,true,,11186,247,85,85,http://blazedemo.com//reserve.php,453,0,228
+1560681514208,465,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-168,text,true,,10546,291,84,84,http://blazedemo.com//purchase.php,465,0,224
+1560681514281,448,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-44,text,true,,11185,247,83,83,http://blazedemo.com//reserve.php,446,0,216
+1560681514756,477,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-46,text,true,,11185,247,82,82,http://blazedemo.com//reserve.php,470,0,231
+1560681514838,477,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-169,text,true,,10552,297,81,81,http://blazedemo.com//purchase.php,467,0,232
+1560681514928,467,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-167,text,true,,10546,290,80,80,http://blazedemo.com//purchase.php,466,0,225
+1560681515324,427,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-47,text,true,,11185,247,79,79,http://blazedemo.com//reserve.php,426,0,209
+1560681515770,451,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-43,text,true,,11185,247,78,78,http://blazedemo.com//reserve.php,451,0,220
+1560681516255,452,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-49,text,true,,11185,247,77,77,http://blazedemo.com//reserve.php,452,0,222
+1560681516678,673,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-171,text,true,,10552,296,76,76,http://blazedemo.com//purchase.php,673,0,221
+1560681516688,670,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-172,text,true,,10551,296,75,75,http://blazedemo.com//purchase.php,663,0,225
+1560681516752,606,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-173,text,true,,10552,297,75,75,http://blazedemo.com//purchase.php,606,0,217
+1560681516770,589,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-48,text,true,,11185,247,73,73,http://blazedemo.com//reserve.php,588,0,219
+1560681516912,671,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-170,text,true,,10552,296,72,72,http://blazedemo.com//purchase.php,670,0,439
+1560681517218,471,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-174,text,true,,10551,296,71,71,http://blazedemo.com//purchase.php,471,0,232
+1560681517832,461,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-50,text,true,,11185,247,70,70,http://blazedemo.com//reserve.php,461,0,224
+1560681517948,457,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-175,text,true,,10551,295,69,69,http://blazedemo.com//purchase.php,456,0,230
+1560681518274,482,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-52,text,true,,11185,247,68,68,http://blazedemo.com//reserve.php,482,0,228
+1560681518299,475,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-51,text,true,,11185,247,67,67,http://blazedemo.com//reserve.php,466,0,225
+1560681518342,485,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-176,text,true,,10545,290,66,66,http://blazedemo.com//purchase.php,484,0,235
+1560681518709,420,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-177,text,true,,10551,296,65,65,http://blazedemo.com//purchase.php,420,0,204
+1560681518776,417,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-54,text,true,,11185,247,64,64,http://blazedemo.com//reserve.php,416,0,204
+1560681519289,432,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-53,text,true,,11185,247,63,63,http://blazedemo.com//reserve.php,432,0,208
+1560681519289,460,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-178,text,true,,10551,296,62,62,http://blazedemo.com//purchase.php,459,0,222
+1560681519868,434,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-55,text,true,,11185,247,61,61,http://blazedemo.com//reserve.php,433,0,218
+1560681519868,438,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-179,text,true,,10550,295,60,60,http://blazedemo.com//purchase.php,438,0,218
+1560681520240,423,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-180,text,true,,10544,289,59,59,http://blazedemo.com//purchase.php,421,0,207
+1560681520259,436,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-56,text,true,,11185,247,58,58,http://blazedemo.com//reserve.php,436,0,210
+1560681520740,452,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-181,text,true,,10544,289,57,57,http://blazedemo.com//purchase.php,451,0,223
+1560681520776,458,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-58,text,true,,11185,247,56,56,http://blazedemo.com//reserve.php,458,0,225
+1560681521224,424,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-182,text,true,,10551,296,55,55,http://blazedemo.com//purchase.php,424,0,206
+1560681521238,470,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-59,text,true,,11185,247,54,54,http://blazedemo.com//reserve.php,469,0,234
+1560681521779,428,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-183,text,true,,10549,294,53,53,http://blazedemo.com//purchase.php,427,0,212
+1560681521782,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-60,text,true,,11185,247,52,52,http://blazedemo.com//reserve.php,443,0,215
+1560681522242,458,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-184,text,true,,10550,295,51,51,http://blazedemo.com//purchase.php,458,0,218
+1560681522261,440,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-61,text,true,,11185,247,50,50,http://blazedemo.com//reserve.php,439,0,213
+1560681522722,436,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-185,text,true,,10552,297,49,49,http://blazedemo.com//purchase.php,436,0,211
+1560681522811,450,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-62,text,true,,11185,247,48,48,http://blazedemo.com//reserve.php,450,0,214
+1560681523299,444,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-63,text,true,,11185,247,47,47,http://blazedemo.com//reserve.php,441,0,216
+1560681523299,445,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-186,text,true,,10550,294,46,46,http://blazedemo.com//purchase.php,444,0,216
+1560681523855,440,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-64,text,true,,11185,247,45,45,http://blazedemo.com//reserve.php,440,0,215
+1560681523855,445,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-187,text,true,,10544,289,44,44,http://blazedemo.com//purchase.php,445,0,215
+1560681524218,465,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-188,text,true,,10551,296,43,43,http://blazedemo.com//purchase.php,465,0,226
+1560681524310,438,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-57,text,true,,11185,247,42,42,http://blazedemo.com//reserve.php,438,0,211
+1560681524719,458,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-189,text,true,,10552,296,41,41,http://blazedemo.com//purchase.php,458,0,214
+1560681524739,439,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-66,text,true,,11185,247,40,40,http://blazedemo.com//reserve.php,438,0,215
+1560681525230,458,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-190,text,true,,10546,291,39,39,http://blazedemo.com//purchase.php,458,0,230
+1560681525302,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-65,text,true,,11185,247,38,38,http://blazedemo.com//reserve.php,438,0,215
+1560681525787,477,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-68,text,true,,11185,247,37,37,http://blazedemo.com//reserve.php,477,0,241
+1560681525988,451,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-191,text,true,,10545,290,36,36,http://blazedemo.com//purchase.php,451,0,216
+1560681526272,441,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-69,text,true,,11185,247,35,35,http://blazedemo.com//reserve.php,440,0,222
+1560681526261,460,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-192,text,true,,10546,291,34,34,http://blazedemo.com//purchase.php,459,0,233
+1560681526808,486,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-70,text,true,,11185,247,33,33,http://blazedemo.com//reserve.php,485,0,224
+1560681527203,562,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-194,text,true,,10547,291,32,32,http://blazedemo.com//purchase.php,562,0,223
+1560681527233,545,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-71,text,true,,11185,247,31,31,http://blazedemo.com//reserve.php,542,0,215
+1560681527758,416,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-67,text,true,,11185,247,30,30,http://blazedemo.com//reserve.php,415,0,202
+1560681528126,423,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-193,text,true,,10545,290,29,29,http://blazedemo.com//purchase.php,423,0,205
+1560681528449,445,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-73,text,true,,11185,247,28,28,http://blazedemo.com//reserve.php,444,0,216
+1560681528449,446,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-196,text,true,,10549,294,27,27,http://blazedemo.com//purchase.php,445,0,216
+1560681528692,439,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-197,text,true,,10550,295,26,26,http://blazedemo.com//purchase.php,438,0,213
+1560681528743,423,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-195,text,true,,10549,294,25,25,http://blazedemo.com//purchase.php,422,0,204
+1560681528769,440,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-72,text,true,,11185,247,24,24,http://blazedemo.com//reserve.php,436,0,212
+1560681529291,416,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-75,text,true,,11185,247,23,23,http://blazedemo.com//reserve.php,415,0,203
+1560681529269,441,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-198,text,true,,10551,297,22,22,http://blazedemo.com//purchase.php,441,0,213
+1560681529769,419,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-199,text,true,,10551,296,21,21,http://blazedemo.com//purchase.php,418,0,203
+1560681529803,458,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-76,text,true,,11185,247,20,20,http://blazedemo.com//reserve.php,452,0,224
+1560681530258,417,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-77,text,true,,11185,247,19,19,http://blazedemo.com//reserve.php,416,0,203
+1560681530235,453,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-200,text,true,,10552,297,18,18,http://blazedemo.com//purchase.php,453,0,215
+1560681530765,463,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-201,text,true,,10552,297,17,17,http://blazedemo.com//purchase.php,461,0,216
+1560681530756,474,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-78,text,true,,11185,247,16,16,http://blazedemo.com//reserve.php,472,0,225
+1560681531206,440,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-202,text,true,,10550,295,15,15,http://blazedemo.com//purchase.php,439,0,214
+1560681531255,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-79,text,true,,11185,247,14,14,http://blazedemo.com//reserve.php,443,0,217
+1560681531733,503,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-203,text,true,,10545,290,13,13,http://blazedemo.com//purchase.php,503,0,220
+1560681531764,473,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-80,text,true,,11185,247,12,12,http://blazedemo.com//reserve.php,473,0,227
+1560681532192,469,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-204,text,true,,10551,296,11,11,http://blazedemo.com//purchase.php,468,0,241
+1560681532255,467,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-81,text,true,,11185,247,10,10,http://blazedemo.com//reserve.php,467,0,232
+1560681532737,491,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-205,text,true,,10544,289,9,9,http://blazedemo.com//purchase.php,490,0,230
+1560681532780,485,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-82,text,true,,11185,247,8,8,http://blazedemo.com//reserve.php,485,0,223
+1560681533258,439,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-83,text,true,,11185,247,7,7,http://blazedemo.com//reserve.php,439,0,213
+1560681533258,466,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-206,text,true,,10549,294,6,6,http://blazedemo.com//purchase.php,466,0,221
+1560681533808,447,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-74,text,true,,11167,247,5,5,http://blazedemo.com//reserve.php,447,0,219
+1560681534768,443,Search,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-86,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,443,0,220
+1560681534927,439,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-209,text,true,,10548,292,3,3,http://blazedemo.com//purchase.php,438,0,211
+1560681535114,445,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-208,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,445,0,216
+1560681535319,463,Purchase ticket,200,OK,bzm - Arrivals Thread Group - Timer Affection-ThreadStarter 1-210,text,true,,10553,297,1,1,http://blazedemo.com//purchase.php,463,0,232

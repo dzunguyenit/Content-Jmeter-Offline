@@ -1,0 +1,993 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1560681030122,1010,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8551,117,2,2,http://blazedemo.com//,1008,0,728
+1560681031149,293,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,293,0,0
+1560681031010,478,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,2,2,http://blazedemo.com//,477,0,235
+1560681031461,290,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,290,0,0
+1560681031498,274,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,1,1,http://blazedemo.com//reserve.php,274,0,0
+1560681031785,249,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10559,297,2,2,http://blazedemo.com//purchase.php,249,0,0
+1560681032016,734,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8551,117,1,1,http://blazedemo.com//,734,0,225
+1560681032761,284,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,273,0,0
+1560681033057,263,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,255,0,0
+1560681033008,516,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,1,1,http://blazedemo.com//,516,0,229
+1560681033536,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,233,0,0
+1560681033783,443,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,443,0,0
+1560681034008,520,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,1,1,http://blazedemo.com//,520,0,246
+1560681034541,248,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,248,0,0
+1560681034800,787,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,787,0,0
+1560681035008,783,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,780,0,552
+1560681035803,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681036046,264,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,263,0,0
+1560681036008,444,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,1,1,http://blazedemo.com//,444,0,214
+1560681036462,1234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,1234,0,0
+1560681037009,968,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,968,0,681
+1560681037708,279,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,272,0,0
+1560681037988,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,247,0,0
+1560681038008,463,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,2,2,http://blazedemo.com//,462,0,232
+1560681038246,248,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,246,0,0
+1560681038481,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,225,0,0
+1560681038733,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10550,295,1,1,http://blazedemo.com//purchase.php,226,0,0
+1560681039008,492,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,491,0,217
+1560681039512,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,231,0,0
+1560681039756,248,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,1,1,http://blazedemo.com//purchase.php,248,0,0
+1560681040008,843,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,837,0,236
+1560681040862,248,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,248,0,0
+1560681041122,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681041008,420,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,1,1,http://blazedemo.com//,419,0,204
+1560681041441,402,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,402,0,0
+1560681041854,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,217,0,0
+1560681042009,450,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,448,0,223
+1560681042469,288,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,286,0,0
+1560681042769,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,1,1,http://blazedemo.com//purchase.php,227,0,0
+1560681043007,450,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,450,0,217
+1560681043469,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,228,0,0
+1560681043708,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,1,1,http://blazedemo.com//purchase.php,229,0,0
+1560681044008,491,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,491,0,234
+1560681044509,241,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,241,0,0
+1560681044761,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,1,1,http://blazedemo.com//purchase.php,237,0,0
+1560681045008,442,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,441,0,219
+1560681045462,224,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,223,0,0
+1560681045698,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,1,1,http://blazedemo.com//purchase.php,225,0,0
+1560681046009,466,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,465,0,227
+1560681046487,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,237,0,0
+1560681046736,296,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,296,0,0
+1560681047009,1356,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,2,2,http://blazedemo.com//,1356,0,1095
+1560681048009,474,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,474,0,242
+1560681048375,248,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,248,0,0
+1560681048495,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681048637,253,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10552,296,2,2,http://blazedemo.com//purchase.php,252,0,0
+1560681048738,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,1,1,http://blazedemo.com//purchase.php,238,0,0
+1560681049009,454,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,454,0,222
+1560681049474,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,235,0,0
+1560681049720,231,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,1,1,http://blazedemo.com//purchase.php,231,0,0
+1560681050009,466,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,466,0,217
+1560681050486,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,227,0,0
+1560681050724,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,1,1,http://blazedemo.com//purchase.php,225,0,0
+1560681051007,440,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,440,0,214
+1560681051461,377,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,317,0,0
+1560681051850,424,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,295,2,2,http://blazedemo.com//purchase.php,423,0,0
+1560681052009,670,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,1,1,http://blazedemo.com//,670,0,330
+1560681052691,405,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,405,0,0
+1560681053108,246,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,246,0,0
+1560681053007,476,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,476,0,224
+1560681053496,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,238,0,0
+1560681053746,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,1,1,http://blazedemo.com//purchase.php,242,0,0
+1560681054008,435,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,435,0,212
+1560681054454,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,227,0,0
+1560681054693,240,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,1,1,http://blazedemo.com//purchase.php,240,0,0
+1560681055007,482,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,482,0,227
+1560681055500,248,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,234,0,0
+1560681055761,236,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,1,1,http://blazedemo.com//purchase.php,236,0,0
+1560681056008,423,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,422,0,206
+1560681056442,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,226,0,0
+1560681056679,217,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,1,1,http://blazedemo.com//purchase.php,217,0,0
+1560681057008,466,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,465,0,225
+1560681057484,241,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,240,0,0
+1560681057736,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,289,1,1,http://blazedemo.com//purchase.php,241,0,0
+1560681058008,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,445,0,215
+1560681058465,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,224,0,0
+1560681058704,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,1,1,http://blazedemo.com//purchase.php,228,0,0
+1560681059008,463,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,463,0,228
+1560681059482,242,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,242,0,0
+1560681059735,263,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,294,1,1,http://blazedemo.com//purchase.php,263,0,0
+1560681060008,466,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,465,0,226
+1560681060493,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681060509,433,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,2,2,http://blazedemo.com//,432,0,210
+1560681060742,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681060954,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,225,0,0
+1560681061192,247,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10552,296,2,2,http://blazedemo.com//purchase.php,246,0,0
+1560681061009,490,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,1,1,http://blazedemo.com//,478,0,218
+1560681061509,296,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,296,0,0
+1560681061509,483,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8551,117,2,2,http://blazedemo.com//,483,0,257
+1560681061816,236,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,3,3,http://blazedemo.com//purchase.php,236,0,0
+1560681062004,222,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,220,0,0
+1560681062239,224,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,223,0,0
+1560681062010,468,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8551,117,1,1,http://blazedemo.com//,468,0,226
+1560681062489,246,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11168,247,2,2,http://blazedemo.com//reserve.php,242,0,0
+1560681062509,471,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,2,2,http://blazedemo.com//,470,0,229
+1560681062748,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,241,0,0
+1560681062992,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,237,0,0
+1560681063008,426,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,425,0,209
+1560681063242,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,241,0,0
+1560681063447,222,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,222,0,0
+1560681063681,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10548,292,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681063508,477,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,477,0,230
+1560681063996,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,237,0,0
+1560681064008,426,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8551,117,2,2,http://blazedemo.com//,426,0,209
+1560681064246,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681064445,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681064694,217,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,217,0,0
+1560681064508,439,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,436,0,213
+1560681064958,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681065195,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,289,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681065009,465,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,465,0,224
+1560681065508,444,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,444,0,217
+1560681065962,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,235,0,0
+1560681066009,414,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,3,3,http://blazedemo.com//,413,0,201
+1560681066208,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,230,0,0
+1560681065486,1017,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,239,0,0
+1560681066437,215,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,215,0,0
+1560681066514,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10552,296,3,3,http://blazedemo.com//purchase.php,237,0,0
+1560681066664,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10551,295,2,2,http://blazedemo.com//purchase.php,219,0,0
+1560681066509,437,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,437,0,214
+1560681066958,246,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,246,0,0
+1560681067215,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681067009,443,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,443,0,215
+1560681067463,483,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,483,0,0
+1560681067509,659,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,659,0,437
+1560681067958,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,294,3,3,http://blazedemo.com//purchase.php,229,0,0
+1560681068181,214,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,214,0,0
+1560681068009,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,2,2,http://blazedemo.com//,445,0,219
+1560681068408,221,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,295,3,3,http://blazedemo.com//purchase.php,221,0,0
+1560681068465,254,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,254,0,0
+1560681068509,453,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,452,0,214
+1560681068732,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,234,0,0
+1560681068972,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681069223,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,233,0,0
+1560681069008,488,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,486,0,229
+1560681069508,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681069509,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,446,0,216
+1560681069755,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681069966,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681070203,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681070009,439,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,438,0,213
+1560681070458,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681070698,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10548,292,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681070508,444,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,444,0,213
+1560681070965,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681071206,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,228,0,0
+1560681071009,472,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,472,0,223
+1560681071492,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681071508,465,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,465,0,218
+1560681071742,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681071985,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,223,0,0
+1560681072008,435,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,435,0,210
+1560681072223,225,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681072454,214,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,214,0,0
+1560681072681,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,218,0,0
+1560681072509,478,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,478,0,237
+1560681073000,241,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,240,0,0
+1560681073008,438,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,438,0,212
+1560681073253,246,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,246,0,0
+1560681073458,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,224,0,0
+1560681073697,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681073509,513,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,513,0,214
+1560681074033,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,227,0,0
+1560681074009,443,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,439,0,216
+1560681074271,242,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,296,3,3,http://blazedemo.com//purchase.php,233,0,0
+1560681074463,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681074508,415,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,2,2,http://blazedemo.com//,415,0,202
+1560681074701,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681074934,217,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,213,0,0
+1560681075162,221,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,220,0,0
+1560681075008,459,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,459,0,224
+1560681075478,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,239,0,0
+1560681075509,445,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,445,0,220
+1560681075729,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,242,0,0
+1560681075967,225,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,224,0,0
+1560681076204,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,232,0,0
+1560681076009,443,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,439,0,217
+1560681076462,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,222,0,0
+1560681076705,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10552,296,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681076509,443,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,443,0,217
+1560681076964,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681077009,429,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,429,0,203
+1560681077207,232,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,294,2,2,http://blazedemo.com//purchase.php,231,0,0
+1560681077449,217,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,216,0,0
+1560681077677,215,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,214,0,0
+1560681077510,442,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,441,0,216
+1560681077964,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681078211,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681078004,663,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,663,0,215
+1560681078677,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,232,0,0
+1560681078505,443,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,443,0,214
+1560681078923,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,3,3,http://blazedemo.com//purchase.php,228,0,0
+1560681078961,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,239,0,0
+1560681079214,732,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,291,3,3,http://blazedemo.com//purchase.php,732,0,0
+1560681079007,940,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,8550,117,2,2,http://blazedemo.com//,939,0,212
+1560681079958,1090,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,11185,247,5,5,http://blazedemo.com//reserve.php,1090,0,0
+1560681079504,2166,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,6,6,http://blazedemo.com//,2165,0,999
+1560681080004,1666,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,6,6,http://blazedemo.com//,1666,0,1044
+1560681080510,1991,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,7,7,http://blazedemo.com//,1991,0,1160
+1560681081010,2249,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,8550,117,9,9,http://blazedemo.com//,1492,0,660
+1560681081680,1885,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,10,10,http://blazedemo.com//reserve.php,1885,0,821
+1560681081510,2061,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,8550,117,10,10,http://blazedemo.com//,2055,0,991
+1560681082010,1562,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,10,10,http://blazedemo.com//,1562,0,1267
+1560681081062,2512,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,10552,296,10,10,http://blazedemo.com//purchase.php,2510,0,1439
+1560681083583,223,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,9,9,http://blazedemo.com//reserve.php,223,0,0
+1560681083272,535,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,11185,247,9,9,http://blazedemo.com//reserve.php,534,0,299
+1560681083010,797,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,8550,117,9,9,http://blazedemo.com//,797,0,554
+1560681083576,232,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,292,9,9,http://blazedemo.com//purchase.php,232,0,0
+1560681082505,1304,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-8,text,true,,8550,117,8,8,http://blazedemo.com//,1303,0,1060
+1560681082512,1301,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,8,8,http://blazedemo.com//reserve.php,1297,0,1053
+1560681083505,493,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,8550,117,8,8,http://blazedemo.com//,493,0,271
+1560681083583,429,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,11185,247,9,9,http://blazedemo.com//reserve.php,429,0,206
+1560681083819,220,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,294,9,9,http://blazedemo.com//purchase.php,220,0,0
+1560681083819,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,10546,292,8,8,http://blazedemo.com//purchase.php,226,0,0
+1560681083819,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,11185,247,7,7,http://blazedemo.com//reserve.php,240,0,0
+1560681083819,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-8,text,true,,11185,247,7,7,http://blazedemo.com//reserve.php,240,0,0
+1560681083824,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10546,291,7,7,http://blazedemo.com//purchase.php,239,0,0
+1560681084009,224,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,11185,247,6,6,http://blazedemo.com//reserve.php,223,0,0
+1560681084024,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,10546,291,6,6,http://blazedemo.com//purchase.php,221,0,0
+1560681084070,271,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,10547,292,5,5,http://blazedemo.com//purchase.php,236,0,0
+1560681084070,271,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-8,text,true,,10552,297,4,4,http://blazedemo.com//purchase.php,271,0,0
+1560681084009,469,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,468,0,215
+1560681084490,241,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,241,0,0
+1560681084509,466,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,4,4,http://blazedemo.com//,466,0,222
+1560681084742,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,4,4,http://blazedemo.com//purchase.php,233,0,0
+1560681081683,3463,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,3461,0,0
+1560681084988,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,228,0,0
+1560681084244,1064,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,10545,290,4,4,http://blazedemo.com//purchase.php,1063,0,0
+1560681085230,235,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,231,0,0
+1560681085008,482,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,482,0,237
+1560681085159,455,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,455,0,219
+1560681085504,251,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,251,0,0
+1560681085510,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,445,0,216
+1560681085766,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681085966,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681086212,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,239,0,0
+1560681086009,442,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,442,0,213
+1560681086462,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,224,0,0
+1560681086701,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,226,0,0
+1560681086509,454,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,451,0,222
+1560681086975,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681087214,232,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,232,0,0
+1560681087009,448,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,448,0,222
+1560681087468,336,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,336,0,0
+1560681087510,521,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,521,0,294
+1560681087816,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10552,297,3,3,http://blazedemo.com//purchase.php,226,0,0
+1560681088043,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,232,0,0
+1560681088010,460,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,460,0,224
+1560681088287,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,3,3,http://blazedemo.com//purchase.php,229,0,0
+1560681088482,243,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,242,0,0
+1560681088510,485,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,484,0,226
+1560681088737,272,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,271,0,0
+1560681089005,333,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,333,0,0
+1560681089009,562,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,562,0,329
+1560681089350,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,3,3,http://blazedemo.com//purchase.php,228,0,0
+1560681089509,431,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,430,0,204
+1560681089582,372,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,372,0,0
+1560681089951,215,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,214,0,0
+1560681089967,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,229,0,0
+1560681090176,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,216,0,0
+1560681090009,472,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,472,0,231
+1560681090490,245,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,244,0,0
+1560681090337,440,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,439,0,214
+1560681090745,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,3,3,http://blazedemo.com//purchase.php,239,0,0
+1560681090788,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681091033,251,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,289,2,2,http://blazedemo.com//purchase.php,232,0,0
+1560681090837,452,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,452,0,212
+1560681091301,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681091339,427,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,425,0,209
+1560681091547,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,234,0,0
+1560681091777,219,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,219,0,0
+1560681092008,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,218,0,0
+1560681091839,444,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,1,1,http://blazedemo.com//,440,0,213
+1560681092294,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681092337,423,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,2,2,http://blazedemo.com//,423,0,206
+1560681092539,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,230,0,0
+1560681092772,220,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,220,0,0
+1560681093004,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,228,0,0
+1560681092841,477,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,1,1,http://blazedemo.com//,475,0,224
+1560681093329,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,240,0,0
+1560681093337,462,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,462,0,225
+1560681093581,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681093812,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,240,0,0
+1560681093838,420,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,420,0,206
+1560681094065,240,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,240,0,0
+1560681094269,214,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,213,0,0
+1560681094494,223,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,218,0,0
+1560681094339,464,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,464,0,229
+1560681094815,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681095063,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,239,0,0
+1560681094837,470,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,468,0,234
+1560681095320,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681095341,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,445,0,211
+1560681095568,242,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,239,0,0
+1560681095798,243,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,243,0,0
+1560681096053,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,290,2,2,http://blazedemo.com//purchase.php,230,0,0
+1560681095840,444,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,1,1,http://blazedemo.com//,444,0,213
+1560681096294,230,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,230,0,0
+1560681096536,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681096338,472,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,472,0,227
+1560681096821,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,247,0,0
+1560681096840,951,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,951,0,219
+1560681097080,727,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,727,0,0
+1560681097802,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,226,0,0
+1560681098041,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10544,289,3,3,http://blazedemo.com//purchase.php,227,0,0
+1560681097840,441,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,434,0,212
+1560681098293,248,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,224,0,0
+1560681098339,428,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,427,0,206
+1560681098552,307,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,4,4,http://blazedemo.com//purchase.php,307,0,0
+1560681098779,217,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,217,0,0
+1560681099008,220,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,291,3,3,http://blazedemo.com//purchase.php,220,0,0
+1560681098837,476,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,463,0,249
+1560681099324,217,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,216,0,0
+1560681097340,2549,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,4,4,http://blazedemo.com//,2497,0,451
+1560681099338,551,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,4,4,http://blazedemo.com//,551,0,224
+1560681099551,338,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10547,292,4,4,http://blazedemo.com//purchase.php,338,0,0
+1560681099900,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,233,0,0
+1560681099840,459,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,459,0,225
+1560681099900,438,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,438,0,203
+1560681100144,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,4,4,http://blazedemo.com//purchase.php,239,0,0
+1560681100310,255,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,254,0,0
+1560681100350,221,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,217,0,0
+1560681100341,463,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,463,0,224
+1560681100575,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681100816,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,238,0,0
+1560681100838,467,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,467,0,216
+1560681101066,240,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,239,0,0
+1560681101316,251,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,251,0,0
+1560681101337,507,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,507,0,230
+1560681101856,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,228,0,0
+1560681101840,475,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,475,0,239
+1560681102114,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10544,289,4,4,http://blazedemo.com//purchase.php,230,0,0
+1560681101578,945,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10552,296,3,3,http://blazedemo.com//purchase.php,945,0,0
+1560681102326,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681102340,462,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,461,0,225
+1560681102574,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681102812,253,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,253,0,0
+1560681102841,431,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,431,0,206
+1560681103076,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,243,0,0
+1560681103284,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681103531,220,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,295,2,2,http://blazedemo.com//purchase.php,220,0,0
+1560681103338,477,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,477,0,232
+1560681103825,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,238,0,0
+1560681103842,447,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,447,0,211
+1560681104074,247,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,247,0,0
+1560681104300,230,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,230,0,0
+1560681104541,364,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,295,3,3,http://blazedemo.com//purchase.php,364,0,0
+1560681104339,567,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,566,0,228
+1560681104917,262,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,262,0,0
+1560681104840,477,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,476,0,227
+1560681105190,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10527,290,3,3,http://blazedemo.com//purchase.php,229,0,0
+1560681105327,261,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681105340,449,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,449,0,221
+1560681105599,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681105800,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,227,0,0
+1560681106039,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681105839,439,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,438,0,212
+1560681106288,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681106525,225,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681106338,438,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,438,0,214
+1560681106787,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,227,0,0
+1560681107027,270,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10548,294,2,2,http://blazedemo.com//purchase.php,269,0,0
+1560681107337,457,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,457,0,227
+1560681107804,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,237,0,0
+1560681108053,438,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,4,4,http://blazedemo.com//purchase.php,438,0,0
+1560681107839,652,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,4,4,http://blazedemo.com//,652,0,222
+1560681108503,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,234,0,0
+1560681108341,459,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,3,3,http://blazedemo.com//,459,0,230
+1560681108748,268,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10551,296,4,4,http://blazedemo.com//purchase.php,268,0,0
+1560681108811,218,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,218,0,0
+1560681109039,217,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,217,0,0
+1560681108837,428,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,428,0,206
+1560681106837,2495,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,2495,0,2251
+1560681109276,220,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,220,0,0
+1560681109507,221,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,295,3,3,http://blazedemo.com//purchase.php,221,0,0
+1560681109344,496,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,496,0,268
+1560681109339,501,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,501,0,273
+1560681109851,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,3,3,http://blazedemo.com//purchase.php,238,0,0
+1560681109851,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,239,0,0
+1560681109839,491,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,491,0,230
+1560681110100,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681110342,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,247,0,0
+1560681110339,434,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,434,0,215
+1560681110601,250,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,250,0,0
+1560681110784,215,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,215,0,0
+1560681111011,545,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10552,297,3,3,http://blazedemo.com//purchase.php,544,0,0
+1560681110839,725,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,724,0,217
+1560681111337,662,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,662,0,205
+1560681111575,438,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,437,0,0
+1560681111839,958,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,4,4,http://blazedemo.com//,958,0,201
+1560681112010,789,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,789,0,0
+1560681112026,789,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10553,297,4,4,http://blazedemo.com//purchase.php,789,0,0
+1560681112340,674,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,4,4,http://blazedemo.com//,669,0,454
+1560681112808,217,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,215,0,0
+1560681112810,218,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,4,4,http://blazedemo.com//purchase.php,218,0,0
+1560681113025,215,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,215,0,0
+1560681113037,218,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,3,3,http://blazedemo.com//purchase.php,213,0,0
+1560681112836,423,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,422,0,206
+1560681113253,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,215,0,0
+1560681113271,217,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,214,0,0
+1560681113500,216,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,216,0,0
+1560681113336,967,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,967,0,213
+1560681114314,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,226,0,0
+1560681113839,711,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,711,0,464
+1560681114336,442,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,441,0,215
+1560681114557,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10552,297,3,3,http://blazedemo.com//purchase.php,229,0,0
+1560681114562,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681114788,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,227,0,0
+1560681114808,235,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,3,3,http://blazedemo.com//purchase.php,234,0,0
+1560681115028,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,233,0,0
+1560681114836,488,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,488,0,216
+1560681115336,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,230,0,0
+1560681115336,467,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,467,0,227
+1560681115578,286,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,285,0,0
+1560681115815,250,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,250,0,0
+1560681115836,476,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,476,0,229
+1560681116076,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681116324,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,227,0,0
+1560681116563,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,291,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681116337,465,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,464,0,241
+1560681116813,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681116841,438,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,437,0,212
+1560681117062,235,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10548,294,2,2,http://blazedemo.com//purchase.php,235,0,0
+1560681117338,443,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,443,0,214
+1560681117792,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,229,0,0
+1560681117289,982,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,982,0,0
+1560681118034,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,237,0,0
+1560681117836,440,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,440,0,214
+1560681118287,242,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,222,0,0
+1560681118282,248,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,3,3,http://blazedemo.com//purchase.php,247,0,0
+1560681118542,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,226,0,0
+1560681118336,470,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,469,0,231
+1560681118817,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,237,0,0
+1560681119066,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681119337,438,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,436,0,213
+1560681118837,1446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,1446,0,216
+1560681119786,497,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,497,0,0
+1560681119839,637,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,4,4,http://blazedemo.com//,636,0,424
+1560681120298,224,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,224,0,0
+1560681120297,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,4,4,http://blazedemo.com//purchase.php,228,0,0
+1560681120488,216,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,216,0,0
+1560681120533,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,3,3,http://blazedemo.com//purchase.php,223,0,0
+1560681120339,440,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,440,0,214
+1560681120717,213,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,296,3,3,http://blazedemo.com//purchase.php,213,0,0
+1560681120792,230,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,230,0,0
+1560681121035,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681120837,466,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,464,0,231
+1560681121316,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681121339,443,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,443,0,215
+1560681121565,255,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681121794,261,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,261,0,0
+1560681122068,240,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,239,0,0
+1560681121838,577,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,2,2,http://blazedemo.com//,577,0,336
+1560681122426,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,233,0,0
+1560681122337,462,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,2,2,http://blazedemo.com//,462,0,226
+1560681122673,232,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,290,3,3,http://blazedemo.com//purchase.php,232,0,0
+1560681122810,241,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,241,0,0
+1560681122839,454,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8551,117,2,2,http://blazedemo.com//,454,0,202
+1560681123064,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,241,0,0
+1560681123304,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,223,0,0
+1560681123337,429,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,2,2,http://blazedemo.com//,429,0,207
+1560681123556,223,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,223,0,0
+1560681123777,217,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,217,0,0
+1560681124005,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10548,292,2,2,http://blazedemo.com//purchase.php,226,0,0
+1560681123840,477,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,1,1,http://blazedemo.com//,477,0,229
+1560681124329,250,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,250,0,0
+1560681124339,480,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,480,0,246
+1560681124590,254,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,254,0,0
+1560681124829,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,247,0,0
+1560681124839,445,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,445,0,222
+1560681125087,250,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,250,0,0
+1560681125297,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681125543,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681125338,462,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,460,0,225
+1560681125811,254,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,253,0,0
+1560681125840,463,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,462,0,225
+1560681126077,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,243,0,0
+1560681126314,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681126339,478,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,478,0,217
+1560681126559,258,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,258,0,0
+1560681126829,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681126837,467,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,464,0,226
+1560681127076,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,228,0,0
+1560681127315,251,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,250,0,0
+1560681127337,507,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,507,0,210
+1560681127578,267,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,266,0,0
+1560681127856,295,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,295,0,0
+1560681127840,615,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,601,0,311
+1560681128162,325,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10553,297,3,3,http://blazedemo.com//purchase.php,325,0,0
+1560681128466,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681128340,465,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,465,0,225
+1560681128704,235,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10544,290,3,3,http://blazedemo.com//purchase.php,226,0,0
+1560681128815,256,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,254,0,0
+1560681128837,461,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,461,0,234
+1560681129082,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,234,0,0
+1560681129309,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681129551,235,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,290,2,2,http://blazedemo.com//purchase.php,235,0,0
+1560681129340,472,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,471,0,228
+1560681129825,278,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,278,0,0
+1560681129838,506,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,506,0,265
+1560681130116,244,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,295,3,3,http://blazedemo.com//purchase.php,243,0,0
+1560681130355,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681130338,484,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,484,0,247
+1560681130601,303,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,3,3,http://blazedemo.com//purchase.php,227,0,0
+1560681130835,246,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,245,0,0
+1560681130839,437,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,437,0,224
+1560681131093,279,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,278,0,0
+1560681131288,216,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,215,0,0
+1560681131517,218,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,292,2,2,http://blazedemo.com//purchase.php,217,0,0
+1560681131340,475,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,475,0,234
+1560681131827,260,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,260,0,0
+1560681131840,451,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,450,0,215
+1560681132100,245,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,245,0,0
+1560681132303,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681132543,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,290,2,2,http://blazedemo.com//purchase.php,230,0,0
+1560681132337,461,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,461,0,230
+1560681132809,260,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,259,0,0
+1560681132837,870,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,870,0,232
+1560681133082,639,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,628,0,0
+1560681133338,598,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,3,3,http://blazedemo.com//,598,0,362
+1560681133718,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,239,0,0
+1560681133949,244,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,244,0,0
+1560681133969,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,226,0,0
+1560681133840,464,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,464,0,227
+1560681134204,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,227,0,0
+1560681134315,246,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,246,0,0
+1560681134337,465,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,465,0,224
+1560681134573,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681134814,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,238,0,0
+1560681135062,252,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,241,0,0
+1560681134841,474,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,474,0,229
+1560681135328,241,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,241,0,0
+1560681135339,460,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,459,0,229
+1560681135580,244,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681135809,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,229,0,0
+1560681135841,440,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,440,0,214
+1560681136052,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,233,0,0
+1560681136293,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681136530,291,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,291,0,0
+1560681136339,482,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,482,0,225
+1560681136832,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,238,0,0
+1560681136839,442,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,442,0,217
+1560681137081,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10548,292,2,2,http://blazedemo.com//purchase.php,243,0,0
+1560681137293,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,239,0,0
+1560681137337,433,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,433,0,217
+1560681137544,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,233,0,0
+1560681137782,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,239,0,0
+1560681138034,224,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,216,0,0
+1560681137837,465,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,465,0,242
+1560681138315,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681138338,421,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,421,0,200
+1560681138558,245,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,245,0,0
+1560681138770,214,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,214,0,0
+1560681138997,217,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,216,0,0
+1560681138840,431,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,431,0,203
+1560681139283,218,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,217,0,0
+1560681139512,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,219,0,0
+1560681139338,445,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,445,0,220
+1560681139796,213,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,213,0,0
+1560681140019,218,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,216,0,0
+1560681139838,416,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,416,0,203
+1560681140268,224,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,224,0,0
+1560681140510,236,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,294,2,2,http://blazedemo.com//purchase.php,235,0,0
+1560681140338,479,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,459,0,224
+1560681140830,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681140839,448,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,448,0,213
+1560681141077,310,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,310,0,0
+1560681141300,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,232,0,0
+1560681141544,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,226,0,0
+1560681141339,451,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,451,0,222
+1560681141803,230,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,230,0,0
+1560681142044,236,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,235,0,0
+1560681141841,444,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,444,0,214
+1560681142298,242,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,242,0,0
+1560681142551,252,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,252,0,0
+1560681142338,466,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,465,0,221
+1560681142817,230,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,229,0,0
+1560681143059,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681142838,487,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,487,0,244
+1560681143336,257,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,257,0,0
+1560681143605,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,243,0,0
+1560681143838,465,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,465,0,229
+1560681144315,241,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,241,0,0
+1560681143342,1294,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,1294,0,213
+1560681144340,532,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,4,4,http://blazedemo.com//,532,0,222
+1560681144569,304,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10552,297,4,4,http://blazedemo.com//purchase.php,304,0,0
+1560681144646,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,227,0,0
+1560681144892,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10552,296,3,3,http://blazedemo.com//purchase.php,230,0,0
+1560681144885,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,237,0,0
+1560681144838,488,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,488,0,229
+1560681145133,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,233,0,0
+1560681145336,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681145337,452,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,452,0,203
+1560681145584,338,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,238,0,0
+1560681145800,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681146043,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,295,2,2,http://blazedemo.com//purchase.php,216,0,0
+1560681145837,449,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,449,0,216
+1560681146296,326,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,325,0,0
+1560681146337,519,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,519,0,290
+1560681146634,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,227,0,0
+1560681146868,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,225,0,0
+1560681146836,434,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,433,0,209
+1560681147105,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,228,0,0
+1560681147282,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681147519,395,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10552,296,3,3,http://blazedemo.com//purchase.php,395,0,0
+1560681147336,579,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,578,0,222
+1560681147927,294,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,294,0,0
+1560681147838,609,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,608,0,382
+1560681148231,236,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,235,0,0
+1560681148459,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681148338,463,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,463,0,228
+1560681148699,235,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,235,0,0
+1560681148814,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681148840,447,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,446,0,212
+1560681149061,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681149297,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681149534,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681149341,490,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,490,0,255
+1560681149843,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681149841,440,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,440,0,217
+1560681150091,246,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,246,0,0
+1560681150294,224,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,224,0,0
+1560681150529,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681150338,421,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,421,0,204
+1560681150771,219,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,218,0,0
+1560681151002,216,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10551,295,2,2,http://blazedemo.com//purchase.php,216,0,0
+1560681150840,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,439,0,214
+1560681151297,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,225,0,0
+1560681151535,232,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,232,0,0
+1560681151338,463,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,463,0,221
+1560681151813,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,236,0,0
+1560681151839,430,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,430,0,210
+1560681152063,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10553,297,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681152282,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,215,0,0
+1560681152540,267,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,267,0,0
+1560681152340,467,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,467,0,219
+1560681152820,225,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,225,0,0
+1560681152840,425,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,425,0,205
+1560681153058,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681153275,695,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,3,3,http://blazedemo.com//reserve.php,695,0,0
+1560681153339,865,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,3,3,http://blazedemo.com//,862,0,630
+1560681153981,225,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,223,0,0
+1560681153838,445,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,445,0,219
+1560681154217,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,3,3,http://blazedemo.com//reserve.php,234,0,0
+1560681154296,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11186,247,3,3,http://blazedemo.com//reserve.php,236,0,0
+1560681154462,368,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,367,0,0
+1560681154544,287,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,286,0,0
+1560681154337,584,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,494,0,234
+1560681154934,248,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,248,0,0
+1560681154837,447,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,447,0,215
+1560681155194,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,240,0,0
+1560681155297,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681155538,275,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,274,0,0
+1560681155340,473,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,1,1,http://blazedemo.com//,473,0,210
+1560681155826,223,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,221,0,0
+1560681155839,448,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,2,2,http://blazedemo.com//,447,0,217
+1560681156060,235,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681156297,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681156539,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,291,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681156337,464,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,464,0,225
+1560681156811,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,238,0,0
+1560681156841,421,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,421,0,204
+1560681157062,240,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,240,0,0
+1560681157273,219,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,219,0,0
+1560681157504,218,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,218,0,0
+1560681157339,414,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,414,0,201
+1560681157764,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,229,0,0
+1560681158005,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,219,0,0
+1560681157838,442,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,442,0,215
+1560681158292,252,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,251,0,0
+1560681158337,454,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,454,0,216
+1560681158802,230,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,229,0,0
+1560681159043,235,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,289,3,3,http://blazedemo.com//purchase.php,235,0,0
+1560681158840,439,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,438,0,212
+1560681158555,932,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,932,0,0
+1560681159290,272,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,272,0,0
+1560681159341,458,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,458,0,221
+1560681159573,240,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,240,0,0
+1560681159810,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,214,0,0
+1560681160049,217,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,216,0,0
+1560681159837,439,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,439,0,212
+1560681160287,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,225,0,0
+1560681160523,294,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,294,0,0
+1560681160338,479,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,479,0,215
+1560681160829,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681160841,421,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,421,0,204
+1560681161273,221,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,221,0,0
+1560681161505,218,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,218,0,0
+1560681161338,473,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,473,0,237
+1560681161076,929,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,929,0,0
+1560681161823,241,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,240,0,0
+1560681161839,442,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,442,0,215
+1560681162074,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10551,297,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681162294,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681162531,232,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,232,0,0
+1560681162339,449,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,449,0,222
+1560681162801,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681162839,418,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,418,0,203
+1560681163040,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,230,0,0
+1560681163267,221,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,221,0,0
+1560681163501,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,226,0,0
+1560681163338,479,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,479,0,248
+1560681163829,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681164066,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10548,292,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681164337,471,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,471,0,241
+1560681164820,311,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,311,0,0
+1560681164839,791,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,4,4,http://blazedemo.com//,791,0,298
+1560681163840,1794,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,4,4,http://blazedemo.com//,1790,0,1297
+1560681165144,490,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10548,292,4,4,http://blazedemo.com//purchase.php,490,0,0
+1560681165641,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,232,0,0
+1560681165884,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,292,4,4,http://blazedemo.com//purchase.php,226,0,0
+1560681165840,436,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,436,0,204
+1560681166287,219,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,219,0,0
+1560681166519,220,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,4,4,http://blazedemo.com//purchase.php,218,0,0
+1560681165337,1448,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,3,3,http://blazedemo.com//,1448,0,1226
+1560681166338,464,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,463,0,228
+1560681166798,222,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,221,0,0
+1560681165644,1392,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,1392,0,0
+1560681166815,251,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,250,0,0
+1560681167031,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10546,291,4,4,http://blazedemo.com//purchase.php,233,0,0
+1560681167077,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,237,0,0
+1560681167047,468,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,467,0,230
+1560681167337,548,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,547,0,220
+1560681167895,501,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,501,0,0
+1560681167841,873,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,4,4,http://blazedemo.com//,873,0,555
+1560681166840,1875,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,4,4,http://blazedemo.com//,1875,0,1556
+1560681168409,313,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10548,292,4,4,http://blazedemo.com//purchase.php,306,0,0
+1560681168338,672,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,4,4,http://blazedemo.com//,672,0,376
+1560681168727,284,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,283,0,0
+1560681168727,284,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,284,0,0
+1560681169021,334,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,5,5,http://blazedemo.com//reserve.php,334,0,0
+1560681169021,354,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,5,5,http://blazedemo.com//purchase.php,334,0,0
+1560681168837,787,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,4,4,http://blazedemo.com//,787,0,517
+1560681169022,602,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10548,292,4,4,http://blazedemo.com//purchase.php,602,0,353
+1560681169338,500,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,8550,117,3,3,http://blazedemo.com//,500,0,285
+1560681169634,258,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,258,0,0
+1560681169851,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,225,0,0
+1560681169838,477,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,4,4,http://blazedemo.com//,476,0,226
+1560681170089,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,10552,297,4,4,http://blazedemo.com//purchase.php,226,0,0
+1560681170327,263,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,263,0,0
+1560681169367,1306,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10551,296,4,4,http://blazedemo.com//purchase.php,1306,0,0
+1560681170337,436,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,436,0,212
+1560681170602,248,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,4,4,http://blazedemo.com//purchase.php,248,0,0
+1560681170785,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,232,0,0
+1560681171028,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,289,3,3,http://blazedemo.com//purchase.php,228,0,0
+1560681170837,510,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,3,3,http://blazedemo.com//,510,0,229
+1560681171360,250,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,250,0,0
+1560681171337,501,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,4,4,http://blazedemo.com//,501,0,226
+1560681171622,274,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10547,291,4,4,http://blazedemo.com//purchase.php,274,0,0
+1560681171849,314,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,313,0,0
+1560681171838,550,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,4,4,http://blazedemo.com//,550,0,324
+1560681172174,249,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10544,289,4,4,http://blazedemo.com//purchase.php,249,0,0
+1560681172399,240,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,240,0,0
+1560681169903,2777,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,294,3,3,http://blazedemo.com//purchase.php,2758,0,0
+1560681172339,480,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,480,0,242
+1560681172651,220,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,289,3,3,http://blazedemo.com//purchase.php,220,0,0
+1560681172832,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,229,0,0
+1560681172838,447,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,447,0,219
+1560681173073,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681173340,499,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,498,0,214
+1560681173851,260,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,260,0,0
+1560681173838,437,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,437,0,208
+1560681173298,978,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,977,0,0
+1560681174125,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,290,4,4,http://blazedemo.com//purchase.php,226,0,0
+1560681174286,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,231,0,0
+1560681174287,231,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,231,0,0
+1560681174530,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10551,295,2,2,http://blazedemo.com//purchase.php,219,0,0
+1560681174338,480,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,1,1,http://blazedemo.com//,480,0,225
+1560681174830,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,238,0,0
+1560681175081,239,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681175337,448,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,448,0,215
+1560681175795,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,231,0,0
+1560681176037,246,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,245,0,0
+1560681174838,1485,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,1485,0,1226
+1560681175837,487,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,486,0,227
+1560681176335,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,233,0,0
+1560681176335,254,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,253,0,0
+1560681176337,451,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,451,0,215
+1560681176578,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,295,3,3,http://blazedemo.com//purchase.php,234,0,0
+1560681176599,247,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,247,0,0
+1560681176799,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681177037,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681176842,444,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,444,0,217
+1560681177296,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,229,0,0
+1560681177538,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,234,0,0
+1560681177337,461,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,461,0,226
+1560681177811,246,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,246,0,0
+1560681177838,470,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,470,0,219
+1560681178070,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681178319,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681178561,297,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,3,3,http://blazedemo.com//purchase.php,297,0,0
+1560681178840,512,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,512,0,204
+1560681179365,217,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,216,0,0
+1560681178341,1432,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,1432,0,1213
+1560681179593,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10550,295,3,3,http://blazedemo.com//purchase.php,219,0,0
+1560681179337,494,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,494,0,244
+1560681179784,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,227,0,0
+1560681179843,243,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,243,0,0
+1560681180024,501,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,4,4,http://blazedemo.com//purchase.php,500,0,0
+1560681179837,709,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,3,3,http://blazedemo.com//,709,0,226
+1560681180099,447,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,447,0,0
+1560681180338,426,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,426,0,209
+1560681180560,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681180777,215,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,215,0,0
+1560681180806,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,237,0,0
+1560681181004,218,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,215,0,0
+1560681181338,439,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,439,0,204
+1560681181788,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,226,0,0
+1560681182025,221,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,3,3,http://blazedemo.com//purchase.php,221,0,0
+1560681180841,1480,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,1480,0,1238
+1560681181841,480,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,480,0,238
+1560681182334,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,232,0,0
+1560681182334,236,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11186,247,3,3,http://blazedemo.com//reserve.php,236,0,0
+1560681182339,439,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,439,0,202
+1560681182576,231,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,231,0,0
+1560681182582,254,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,254,0,0
+1560681182839,937,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,937,0,244
+1560681182790,1078,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,1077,0,0
+1560681183787,260,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,4,4,http://blazedemo.com//reserve.php,259,0,0
+1560681183338,775,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,4,4,http://blazedemo.com//,771,0,521
+1560681184058,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,4,4,http://blazedemo.com//purchase.php,242,0,0
+1560681184123,227,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,4,4,http://blazedemo.com//reserve.php,226,0,0
+1560681184360,233,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10546,291,4,4,http://blazedemo.com//purchase.php,233,0,0
+1560681184338,418,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,418,0,205
+1560681183880,1022,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,4,4,http://blazedemo.com//purchase.php,1022,0,0
+1560681184768,222,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,217,0,0
+1560681185001,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,215,0,0
+1560681184837,444,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8551,117,2,2,http://blazedemo.com//,444,0,214
+1560681183839,1471,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,1471,0,1237
+1560681185292,225,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,225,0,0
+1560681185321,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,233,0,0
+1560681185527,227,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10544,289,3,3,http://blazedemo.com//purchase.php,227,0,0
+1560681185339,442,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,442,0,216
+1560681185565,236,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10551,295,2,2,http://blazedemo.com//purchase.php,235,0,0
+1560681185794,257,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681185840,435,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,435,0,212
+1560681186062,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681186287,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681186338,419,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,419,0,201
+1560681186532,262,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,262,0,0
+1560681186767,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681187010,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10550,294,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681186840,421,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,421,0,203
+1560681187271,312,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,312,0,0
+1560681187339,619,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,618,0,244
+1560681187968,336,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,336,0,0
+1560681187836,654,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,4,4,http://blazedemo.com//,654,0,422
+1560681188317,247,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,4,4,http://blazedemo.com//purchase.php,247,0,0
+1560681187596,1006,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,1005,0,0
+1560681188502,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,237,0,0
+1560681188340,478,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,2,2,http://blazedemo.com//,478,0,257
+1560681188750,231,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10553,297,3,3,http://blazedemo.com//purchase.php,229,0,0
+1560681188829,222,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,222,0,0
+1560681188837,451,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,444,0,220
+1560681189062,226,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,226,0,0
+1560681189299,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,232,0,0
+1560681189544,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10544,289,2,2,http://blazedemo.com//purchase.php,230,0,0
+1560681189337,686,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,686,0,249
+1560681190035,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,247,0,0
+1560681189841,677,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,676,0,428
+1560681190295,271,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,271,0,0
+1560681190531,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,230,0,0
+1560681190339,460,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8551,117,2,2,http://blazedemo.com//,460,0,227
+1560681190773,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,234,0,0
+1560681190811,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11193,247,2,2,http://blazedemo.com//reserve.php,233,0,0
+1560681190841,440,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,2,2,http://blazedemo.com//,423,0,203
+1560681191056,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,243,0,0
+1560681191293,220,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11186,247,2,2,http://blazedemo.com//reserve.php,220,0,0
+1560681191523,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,228,0,0
+1560681191337,449,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,449,0,211
+1560681191799,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,246,0,0
+1560681191838,423,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,2,2,http://blazedemo.com//,423,0,208
+1560681192056,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,228,0,0
+1560681192272,214,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,214,0,0
+1560681192497,336,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,336,0,0
+1560681192340,494,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,493,0,219
+1560681192845,247,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,247,0,0
+1560681192838,459,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,459,0,236
+1560681193104,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10527,290,2,2,http://blazedemo.com//purchase.php,234,0,0
+1560681193308,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,237,0,0
+1560681193340,449,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8551,117,2,2,http://blazedemo.com//,437,0,206
+1560681193559,231,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,230,0,0
+1560681193802,214,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,214,0,0
+1560681194027,217,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,217,0,0
+1560681193838,415,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,415,0,202
+1560681194265,223,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,223,0,0
+1560681194500,245,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,245,0,0
+1560681194338,477,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,477,0,220
+1560681194827,275,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,223,0,0
+1560681194838,495,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8551,117,2,2,http://blazedemo.com//,495,0,264
+1560681195114,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10553,297,3,3,http://blazedemo.com//purchase.php,227,0,0
+1560681195342,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681195337,462,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,462,0,228
+1560681195585,225,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,291,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681195810,235,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681195836,447,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,447,0,216
+1560681196058,243,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,243,0,0
+1560681196293,228,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681196337,420,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,420,0,205
+1560681196532,234,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,227,0,0
+1560681196769,214,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,213,0,0
+1560681196995,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681196839,426,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,426,0,204
+1560681197275,215,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,214,0,0
+1560681197503,218,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,218,0,0
+1560681197336,445,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,445,0,214
+1560681197794,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,237,0,0
+1560681198044,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,230,0,0
+1560681197836,439,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,438,0,213
+1560681198337,454,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,453,0,219
+1560681198801,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,228,0,0
+1560681198287,970,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,970,0,0
+1560681199042,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,291,3,3,http://blazedemo.com//purchase.php,229,0,0
+1560681198836,463,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,463,0,227
+1560681199268,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,290,3,3,http://blazedemo.com//purchase.php,228,0,0
+1560681199310,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,237,0,0
+1560681199560,242,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,295,2,2,http://blazedemo.com//purchase.php,242,0,0
+1560681199338,475,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,475,0,239
+1560681199824,242,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,241,0,0
+1560681199836,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,446,0,220
+1560681200076,241,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,238,0,0
+1560681200294,233,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,233,0,0
+1560681200539,242,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,242,0,0
+1560681200336,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,445,0,220
+1560681200794,226,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681201031,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,228,0,0
+1560681200836,423,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,423,0,207
+1560681201270,218,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,218,0,0
+1560681201501,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,219,0,0
+1560681201340,440,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,440,0,213
+1560681201792,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,233,0,0
+1560681202037,225,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,225,0,0
+1560681201836,470,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,466,0,241
+1560681202319,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,231,0,0
+1560681202337,420,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,420,0,202
+1560681202562,248,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10549,294,2,2,http://blazedemo.com//purchase.php,248,0,0
+1560681202769,234,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,234,0,0
+1560681203015,215,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,2,2,http://blazedemo.com//purchase.php,214,0,0
+1560681203340,451,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,446,0,221
+1560681203803,231,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,231,0,0
+1560681202841,1241,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,3,3,http://blazedemo.com//,1241,0,205
+1560681204045,238,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,290,3,3,http://blazedemo.com//purchase.php,237,0,0
+1560681203837,446,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,446,0,213
+1560681204094,220,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,220,0,0
+1560681204295,230,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,229,0,0
+1560681204326,219,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10545,290,3,3,http://blazedemo.com//purchase.php,218,0,0
+1560681204536,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10546,291,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681204339,481,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,1,1,http://blazedemo.com//,481,0,222
+1560681204830,251,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,250,0,0
+1560681204839,482,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,481,0,241
+1560681205092,229,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10550,295,2,2,http://blazedemo.com//purchase.php,229,0,0
+1560681205333,281,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,281,0,0
+1560681205339,517,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,517,0,274
+1560681205626,253,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10547,292,3,3,http://blazedemo.com//purchase.php,253,0,0
+1560681205867,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,226,0,0
+1560681205837,458,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,2,2,http://blazedemo.com//,457,0,224
+1560681206109,228,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10551,296,2,2,http://blazedemo.com//purchase.php,228,0,0
+1560681206305,258,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,235,0,0
+1560681206576,248,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10545,291,2,2,http://blazedemo.com//purchase.php,248,0,0
+1560681206839,451,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,451,0,223
+1560681207300,232,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,232,0,0
+1560681207339,581,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,8550,117,4,4,http://blazedemo.com//,580,0,210
+1560681206337,1583,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,4,4,http://blazedemo.com//,1583,0,1226
+1560681207544,379,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10545,290,4,4,http://blazedemo.com//purchase.php,377,0,0
+1560681207931,397,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,397,0,0
+1560681207933,396,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,396,0,0
+1560681207837,719,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,8550,117,4,4,http://blazedemo.com//,719,0,491
+1560681208339,269,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,10549,294,4,4,http://blazedemo.com//purchase.php,269,0,0
+1560681208340,441,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,3,3,http://blazedemo.com//,441,0,216
+1560681208340,444,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10551,296,3,3,http://blazedemo.com//purchase.php,444,0,216
+1560681208567,237,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,237,0,0
+1560681208793,223,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,3,3,http://blazedemo.com//reserve.php,223,0,0
+1560681208815,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,10550,294,3,3,http://blazedemo.com//purchase.php,229,0,0
+1560681209028,237,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10547,292,2,2,http://blazedemo.com//purchase.php,237,0,0
+1560681208839,456,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,1,1,http://blazedemo.com//,456,0,215
+1560681209305,229,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,228,0,0
+1560681209545,230,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,10552,297,2,2,http://blazedemo.com//purchase.php,230,0,0
+1560681209337,530,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,8550,117,2,2,http://blazedemo.com//,530,0,296
+1560681209878,238,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,11185,247,2,2,http://blazedemo.com//reserve.php,238,0,0
+1560681209837,480,Landing page,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,8550,117,2,2,http://blazedemo.com//,480,0,225
+1560681210129,232,Purchase ticket,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,10546,290,2,2,http://blazedemo.com//purchase.php,232,0,0
+1560681210328,239,Search,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,11185,247,1,1,http://blazedemo.com//reserve.php,235,0,0
