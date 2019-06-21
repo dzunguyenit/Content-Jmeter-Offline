@@ -183,14 +183,14 @@
         <elementProp name="ThreadGroup.main_controller" elementType="com.blazemeter.jmeter.control.VirtualUserController"/>
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <collectionProp name="Schedule">
-          <collectionProp name="-808397307">
+          <collectionProp name="-296953210">
             <stringProp name="1567">10</stringProp>
-            <stringProp name="48625">100</stringProp>
+            <stringProp name="1629">30</stringProp>
             <stringProp name="51">3</stringProp>
           </collectionProp>
-          <collectionProp name="579908212">
+          <collectionProp name="548874856">
             <stringProp name="48625">100</stringProp>
-            <stringProp name="49586">200</stringProp>
+            <stringProp name="48842">170</stringProp>
             <stringProp name="49">1</stringProp>
           </collectionProp>
         </collectionProp>
