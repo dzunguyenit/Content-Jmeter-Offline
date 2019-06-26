@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.1.1 r1855137">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan" enabled="true">
+      <stringProp name="TestPlan.comments"></stringProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+      <stringProp name="TestPlan.user_define_classpath"></stringProp>
+    </TestPlan>
+    <hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group" enabled="true">
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+          <stringProp name="LoopController.loops">1</stringProp>
+        </elementProp>
+        <stringProp name="ThreadGroup.num_threads">1</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">1</stringProp>
+        <boolProp name="ThreadGroup.scheduler">false</boolProp>
+        <stringProp name="ThreadGroup.duration"></stringProp>
+        <stringProp name="ThreadGroup.delay"></stringProp>
+      </ThreadGroup>
+      <hashTree>
+        <JSR223Sampler guiclass="TestBeanGUI" testclass="JSR223Sampler" testname="HTTP request to search character" enabled="true">
+          <stringProp name="scriptLanguage">groovy</stringProp>
+          <stringProp name="parameters"></stringProp>
+          <stringProp name="filename"></stringProp>
+          <stringProp name="cacheKey">true</stringProp>
+          <stringProp name="script">import org.apache.http.HttpHeaders
+import org.apache.http.client.config.RequestConfig
+import org.apache.http.client.methods.HttpUriRequest
+import org.apache.http.client.methods.RequestBuilder
+import org.apache.http.impl.client.HttpClientBuilder
+import org.apache.http.util.EntityUtils
+import org.apache.http.entity.StringEntity
+import org.apache.http.entity.StringEntity
+import com.google.gson.Gson
+
+def List&lt;String&gt; sendRequest(String url, String method, Map&lt;String,Object&gt; body) {
+
+
+        RequestConfig requestConfig = RequestConfig.custom()
+                .setConnectTimeout(2000)
+                .setSocketTimeout(3000)
+                .build();
+
+        StringEntity entity = new StringEntity(new Gson().toJson(body), &quot;UTF-8&quot;);
+
+
+        HttpUriRequest request = RequestBuilder.create(method)
+                .setConfig(requestConfig)
+                .setUri(url)
+                .setHeader(HttpHeaders.CONTENT_TYPE, &quot;application/json;charset=UTF-8&quot;)
+                .setEntity(entity)
+                .build();
+                
+	   String req = &quot;REQUEST:&quot; + &quot;\n&quot; + request.getRequestLine() + &quot;\n&quot; + &quot;Headers: &quot; +
+                request.getAllHeaders() + &quot;\n&quot; + EntityUtils.toString(entity) + &quot;\n&quot;;
+                
+
+        HttpClientBuilder.create().build().withCloseable {httpClient -&gt;
+
+            httpClient.execute(request).withCloseable {response -&gt;
+
+                String res = &quot;RESPONSE:&quot; + &quot;\n&quot; + response.getStatusLine() + &quot;\n&quot; + &quot;Headers: &quot; +
+                        response.getAllHeaders() + &quot;\n&quot; +
+                        (response.getEntity() != null ? EntityUtils.toString(response.getEntity()) : &quot;&quot;) + &quot;\n&quot;;
+
+                System.out.println(req + &quot;\n&quot;  + res );
+                
+                return Arrays.asList(req, res);
+            }
+        }
+    }
+
+     Map&lt;String,Object&gt; map = new LinkedHashMap&lt;&gt;();
+//        map.put(&quot;Param_1&quot;, &quot;Value_1&quot;);
+//        map.put(&quot;Param_2&quot;, Arrays.asList(1,2,3,4));
+//        map.put(&quot;Param_3&quot;, Arrays.asList(&quot;a&quot;,&quot;b&quot;,&quot;c&quot;));
+
+List test1 = sendRequest(&quot;https://restool-sample-app.herokuapp.com/api/character?search=&quot;,&quot;GET&quot;, map);
+log.info(Arrays.toString(test1));</stringProp>
+        </JSR223Sampler>
+        <hashTree/>
+        <JSR223Sampler guiclass="TestBeanGUI" testclass="JSR223Sampler" testname="HTTP request to create character" enabled="false">
+          <stringProp name="scriptLanguage">groovy</stringProp>
+          <stringProp name="parameters"></stringProp>
+          <stringProp name="filename"></stringProp>
+          <stringProp name="cacheKey">true</stringProp>
+          <stringProp name="script">import org.apache.http.HttpHeaders
+import org.apache.http.client.config.RequestConfig
+import org.apache.http.client.methods.HttpUriRequest
+import org.apache.http.client.methods.RequestBuilder
+import org.apache.http.impl.client.HttpClientBuilder
+import org.apache.http.util.EntityUtils
+import org.apache.http.entity.StringEntity
+import org.apache.http.entity.StringEntity
+import com.google.gson.Gson
+
+def List&lt;String&gt; sendRequest(String url, String method, Map&lt;String,Object&gt; body) {
+
+
+        RequestConfig requestConfig = RequestConfig.custom()
+                .setConnectTimeout(2000)
+                .setSocketTimeout(3000)
+                .build();
+
+        StringEntity entity = new StringEntity(new Gson().toJson(body), &quot;UTF-8&quot;);
+
+
+        HttpUriRequest request = RequestBuilder.create(method)
+                .setConfig(requestConfig)
+                .setUri(url)
+                .setHeader(HttpHeaders.CONTENT_TYPE, &quot;application/json;charset=UTF-8&quot;)
+                .setEntity(entity)
+                .build();
+                
+	   String req = &quot;REQUEST:&quot; + &quot;\n&quot; + request.getRequestLine() + &quot;\n&quot; + &quot;Headers: &quot; +
+                request.getAllHeaders() + &quot;\n&quot; + EntityUtils.toString(entity) + &quot;\n&quot;;
+                
+
+        HttpClientBuilder.create().build().withCloseable {httpClient -&gt;
+
+            httpClient.execute(request).withCloseable {response -&gt;
+
+                String res = &quot;RESPONSE:&quot; + &quot;\n&quot; + response.getStatusLine() + &quot;\n&quot; + &quot;Headers: &quot; +
+                        response.getAllHeaders() + &quot;\n&quot; +
+                        (response.getEntity() != null ? EntityUtils.toString(response.getEntity()) : &quot;&quot;) + &quot;\n&quot;;
+
+                System.out.println(req + &quot;\n&quot;  + res );
+                
+                return Arrays.asList(req, res);
+            }
+        }
+    }
+
+     Map&lt;String,Object&gt; map = new LinkedHashMap&lt;&gt;();
+     map.put(&quot;thumbnail&quot;,&quot;https://avatarfiles.alphacoders.com/629/62922.jpg&quot;);
+     map.put(&quot;name&quot;,&quot;Naruto&quot;);
+     map.put(&quot;realName&quot;,&quot;Uzumaki Naruto&quot;);
+     map.put(&quot;location&quot;,&quot;Kings Landing&quot;);
+     map.put(&quot;isAlive&quot;,true);
+//        map.put(&quot;Param_3&quot;, Arrays.asList(&quot;a&quot;,&quot;b&quot;,&quot;c&quot;));
+
+List test1 = sendRequest(&quot;https://restool-sample-app.herokuapp.com/api/character&quot;,&quot;POST&quot;, map);
+log.info(Arrays.toString(test1));</stringProp>
+        </JSR223Sampler>
+        <hashTree/>
+      </hashTree>
+      <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+        <boolProp name="ResultCollector.error_logging">false</boolProp>
+        <objProp>
+          <name>saveConfig</name>
+          <value class="SampleSaveConfiguration">
+            <time>true</time>
+            <latency>true</latency>
+            <timestamp>true</timestamp>
+            <success>true</success>
+            <label>true</label>
+            <code>true</code>
+            <message>true</message>
+            <threadName>true</threadName>
+            <dataType>true</dataType>
+            <encoding>false</encoding>
+            <assertions>true</assertions>
+            <subresults>true</subresults>
+            <responseData>false</responseData>
+            <samplerData>false</samplerData>
+            <xml>false</xml>
+            <fieldNames>true</fieldNames>
+            <responseHeaders>false</responseHeaders>
+            <requestHeaders>false</requestHeaders>
+            <responseDataOnError>false</responseDataOnError>
+            <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+            <assertionsResultsToSave>0</assertionsResultsToSave>
+            <bytes>true</bytes>
+            <sentBytes>true</sentBytes>
+            <url>true</url>
+            <threadCounts>true</threadCounts>
+            <idleTime>true</idleTime>
+            <connectTime>true</connectTime>
+          </value>
+        </objProp>
+        <stringProp name="filename"></stringProp>
+      </ResultCollector>
+      <hashTree/>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>
