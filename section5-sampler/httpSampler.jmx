@@ -219,7 +219,11 @@
           <stringProp name="parameters"></stringProp>
           <stringProp name="filename"></stringProp>
           <stringProp name="cacheKey">true</stringProp>
-          <stringProp name="script">log.info(props.getProperty(&quot;url&quot;));</stringProp>
+          <stringProp name="script">log.info(props.getProperty(&quot;url&quot;));
+log.info(&quot;Previous Response Message is: &quot; + ctx.getPreviousResult().getResponseMessage());
+log.info(&quot;Previous Response Code is: &quot; + ctx.getPreviousResult().getResponseCode());
+log.info(&quot;Previous Response URL is: &quot; + ctx.getPreviousResult().getURL());
+log.info(&quot;Content type is: &quot; + ctx.getPreviousResult().getContentType());</stringProp>
         </JSR223Sampler>
         <hashTree/>
         <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="true">
