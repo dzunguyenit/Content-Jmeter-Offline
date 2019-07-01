@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.1.1 r1855137">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan" enabled="true">
+      <stringProp name="TestPlan.comments"></stringProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+      <stringProp name="TestPlan.user_define_classpath"></stringProp>
+    </TestPlan>
+    <hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group" enabled="true">
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+          <stringProp name="LoopController.loops">1</stringProp>
+        </elementProp>
+        <stringProp name="ThreadGroup.num_threads">1</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">1</stringProp>
+        <boolProp name="ThreadGroup.scheduler">false</boolProp>
+        <stringProp name="ThreadGroup.duration"></stringProp>
+        <stringProp name="ThreadGroup.delay"></stringProp>
+      </ThreadGroup>
+      <hashTree>
+        <kg.apc.jmeter.samplers.DummySampler guiclass="kg.apc.jmeter.samplers.DummySamplerGui" testclass="kg.apc.jmeter.samplers.DummySampler" testname="https://my.lazada.vn/api/recentOrders/" enabled="true">
+          <boolProp name="WAITING">true</boolProp>
+          <boolProp name="SUCCESFULL">true</boolProp>
+          <stringProp name="RESPONSE_CODE">200</stringProp>
+          <stringProp name="RESPONSE_MESSAGE">OK</stringProp>
+          <stringProp name="REQUEST_DATA">Accept: application/json, text/javascript
+Content-Type: application/x-www-form-urlencoded
+Origin: https://www.lazada.vn
+Referer: https://www.lazada.vn/catalog/?spm=a2o4n.home.popular.6.1905e1825Otynl&amp;q=D%C3%A9p%20Nam&amp;abtest=&amp;item_id=214328770&amp;pos=6&amp;abbucket=&amp;clickTrackInfo=staticRankScore%5E0.0698928121059268___pvid%5E2df58e99-c204-4b81-9169-92ae66179a21___trendId%5E841a55b04ac228e3d06e6a4a1f72d0d2___nids%5E214328770&amp;up_id=214328770&amp;from=hp_mostpopular&amp;acm=icms-zebra-5000379-2586235.1003.1.2262803&amp;scm=1007.17092.106325.0&amp;version=v2
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+X-Requested-With: XMLHttpRequest</stringProp>
+          <stringProp name="RESPONSE_DATA">access-control-allow-credentials: true
+access-control-allow-origin: https://www.lazada.vn
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-length: 16
+content-type: application/json;charset=UTF-8
+date: Fri, 21 Jun 2019 08:28:40 GMT
+eagleeye-traceid: 0b8f8c4215611057203915535e2adc
+eagleeye-traceid-daily: 0b8f8c4215611057203915535e2adc
+expires: 0
+p3p: CP=&apos;CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR&apos;
+pragma: no-cache
+s_group: lazada_member_session
+s_host: 5453594c79452b747a396f596441706a6f7676587869743865336137306d706970386f48585864664c59354962766d6379452f4c46596d324972364a72773d3d
+s_ip: 4547514b65495870397a59623166733d
+s_read_unit: [VN:CENTER]
+s_status: STATUS_NOT_EXISTED
+s_tag: 4398047887392|67108864^1|^^
+s_tid: 0b8f8c4215611057203915535e2adc
+s_ucode: VN:CENTER
+s_v: 4.0.1.1
+server: Tengine/Aserver
+status: 200
+strict-transport-security: max-age=31536000 ; includeSubDomains, max-age=31536000
+timing-allow-origin: *
+ufe-result: A6
+x-application-context: lazada-buyer-portal:7001
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block</stringProp>
+          <stringProp name="RESPONSE_TIME">${__Random(50,500)}</stringProp>
+          <stringProp name="LATENCY">${__Random(1,50)}</stringProp>
+          <stringProp name="CONNECT">${__Random(1,5)}</stringProp>
+          <stringProp name="URL"></stringProp>
+          <stringProp name="RESULT_CLASS">org.apache.jmeter.protocol.http.sampler.HTTPSampleResult</stringProp>
+        </kg.apc.jmeter.samplers.DummySampler>
+        <hashTree/>
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>false</xml>
+              <fieldNames>true</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+              <sentBytes>true</sentBytes>
+              <url>true</url>
+              <threadCounts>true</threadCounts>
+              <idleTime>true</idleTime>
+              <connectTime>true</connectTime>
+            </value>
+          </objProp>
+          <stringProp name="filename"></stringProp>
+        </ResultCollector>
+        <hashTree/>
+      </hashTree>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>
