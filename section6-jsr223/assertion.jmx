@@ -33,7 +33,7 @@
           <stringProp name="REQUEST_DATA">Dummy Sampler used to simulate requests and responses
 without actual network activity. This helps debugging tests.</stringProp>
           <stringProp name="RESPONSE_DATA">{
- &quot;category_id&quot;: &quot;3&quot;, 
+ &quot;category_id&quot;: &quot;8&quot;, 
  &quot;category_name&quot;: &quot;Computers and accessories&quot;,
  &quot;category_goods&quot;: [
 	{&quot;id&quot;: &quot;100&quot;, &quot;name&quot;: &quot;monitor&quot;,&quot;price&quot;: &quot;125&quot;},
@@ -60,12 +60,12 @@ def regex = &apos;&quot;category_id&quot;: &quot;(.+)&quot;&apos;;
 def pattern = Pattern.compile(regex);
 def matcher = pattern.matcher(response);
 
-if (matcher.find() &amp;&amp; matcher.group(1).equals(&quot;1&quot;)) {
-	log.info(&quot;The value of the \&quot;category ID\&quot; parameter is \&quot;1\&quot;&quot;);
+if (matcher.find() &amp;&amp; matcher.group(1).equals(&quot;8&quot;)) {
+	log.info(&quot;The value of the \&quot;category ID\&quot; parameter is \&quot;8\&quot;&quot;);
 	
 } else {
 	
-	log.info(&quot;The value of the \&quot;Category ID\&quot; parameter was not found or is not equal to \&quot;1\&quot;&quot;);
+	log.info(&quot;The value of the \&quot;Category ID\&quot; parameter was not found or is not equal to \&quot;8\&quot;&quot;);
 
 }</stringProp>
           <stringProp name="scriptLanguage">groovy</stringProp>
