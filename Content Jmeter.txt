@@ -73,6 +73,26 @@ VII. Rule phân tích thực tế
 Formula: N = Throughput( số lượng request/ 1s) * ( Response Time + ThinkTime)
 
 
+JSon Extractor:
+
+$: Root or array
+$.property: return parent object
+$.property.['attribute']: return attribute of array
+.. : Ex: $..id: return all id of array
+
+$.[*] -> return all values of all properties in all elements of
+array
+$.[0:2].['id'] -> return element at position 0 and 1 of the array.
+$.[:3]> return first 3 elements of array.
+
+$.[-3:] -> return last 3 element in array
+$.*[?(@.realName == 'Lena Headey')].['id']-> return element that have property realName to be equal to Lena Headey
+
+$..*[?(@.realName == 'John Bradley' || @.realName == 'Lena Headey')] -> return element that have property realName to be equal to John Bradley or Lena Headey
+
+$.*[?(@.isFired == true && @.name == 'Daniel Sternlicht')] -> return element that have property isFired to be equal to 'true' and name = 'Daniel Sternlicht'
+
+
 
 
 

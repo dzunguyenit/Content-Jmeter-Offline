@@ -197,42 +197,36 @@
                     <stringProp name="Argument.name">login-form</stringProp>
                     <stringProp name="Argument.value">login-form</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="login-form%3Aemail" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">login-form%3Aemail</stringProp>
                     <stringProp name="Argument.value">john.smith%40gmail.com</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="login-form%3Apassword" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">login-form%3Apassword</stringProp>
                     <stringProp name="Argument.value">john</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="login-form%3Alogin.x" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">login-form%3Alogin.x</stringProp>
                     <stringProp name="Argument.value">57</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="login-form%3Alogin.y" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">login-form%3Alogin.y</stringProp>
                     <stringProp name="Argument.value">14</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="javax.faces.ViewState" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">javax.faces.ViewState</stringProp>
                     <stringProp name="Argument.value">j_id1%3Aj_id2</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>
@@ -293,28 +287,24 @@
                     <stringProp name="Argument.name">logout-form</stringProp>
                     <stringProp name="Argument.value">logout-form</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="logout-form%3Alogout.x" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">logout-form%3Alogout.x</stringProp>
                     <stringProp name="Argument.value">45</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="logout-form%3Alogout.y" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">logout-form%3Alogout.y</stringProp>
                     <stringProp name="Argument.value">9</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                   <elementProp name="javax.faces.ViewState" elementType="HTTPArgument">
                     <boolProp name="HTTPArgument.always_encode">false</boolProp>
                     <stringProp name="Argument.name">javax.faces.ViewState</stringProp>
                     <stringProp name="Argument.value">j_id1%3Aj_id3</stringProp>
                     <stringProp name="Argument.metadata">=</stringProp>
-                    <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   </elementProp>
                 </collectionProp>
               </elementProp>

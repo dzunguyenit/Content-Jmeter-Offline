@@ -35,7 +35,7 @@
           </collectionProp>
         </Arguments>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request" enabled="false">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -54,7 +54,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
         </HTTPSamplerProxy>
         <hashTree>
-          <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="RE - Get the id" enabled="false">
+          <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="RE - Get the id" enabled="true">
             <stringProp name="RegexExtractor.useHeaders">false</stringProp>
             <stringProp name="RegexExtractor.refname">id_characterTyron</stringProp>
             <stringProp name="RegexExtractor.regex">\[{&quot;id&quot;:&quot;(.+?)&quot;,&quot;thumbnail&quot;:&quot;https:\/\/www.hbo.com\/content\/dam\/hbodata\/series\/game-of-thrones\/character\/s5\/tyrion-lannister-512x512.jpg\/_jcr_content\/renditions\/cq5dam.web.260.260.jpeg&quot;,&quot;name&quot;:&quot;Tyrion Lannister&quot;</stringProp>
@@ -63,7 +63,7 @@
             <stringProp name="RegexExtractor.match_number">1</stringProp>
           </RegexExtractor>
           <hashTree/>
-          <JSONPostProcessor guiclass="JSONPostProcessorGui" testclass="JSONPostProcessor" testname="JE - Get the id" enabled="true">
+          <JSONPostProcessor guiclass="JSONPostProcessorGui" testclass="JSONPostProcessor" testname="JE - Get the id" enabled="false">
             <stringProp name="JSONPostProcessor.referenceNames">firstId</stringProp>
             <stringProp name="JSONPostProcessor.jsonPathExprs">$.[*].id1</stringProp>
             <stringProp name="JSONPostProcessor.match_numbers">-1</stringProp>
@@ -111,7 +111,7 @@ without actual network activity. This helps debugging tests.</stringProp>
           </BoundaryExtractor>
           <hashTree/>
         </hashTree>
-        <kg.apc.jmeter.samplers.DummySampler guiclass="kg.apc.jmeter.samplers.DummySamplerGui" testclass="kg.apc.jmeter.samplers.DummySampler" testname="jp@gc - Dummy Sampler - Boundary Extractor Demo" enabled="true">
+        <kg.apc.jmeter.samplers.DummySampler guiclass="kg.apc.jmeter.samplers.DummySamplerGui" testclass="kg.apc.jmeter.samplers.DummySampler" testname="jp@gc - Dummy Sampler - Boundary Extractor Demo" enabled="false">
           <boolProp name="WAITING">true</boolProp>
           <boolProp name="SUCCESFULL">true</boolProp>
           <stringProp name="RESPONSE_CODE">200</stringProp>
