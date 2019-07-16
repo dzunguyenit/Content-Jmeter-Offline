@@ -1,0 +1,40 @@
+1. Object nằm trong dấu {}, access bằng dấu chấm
+2. Nested JSON Objects: Object json chồng nhau
+
+myObj = {
+  "name":"John",
+  "age":30,
+  "cars": {
+    "car1":"Ford",
+    "car2":"BMW",
+    "car3":"Fiat"
+  }
+ }
+ 
+  + Object không chồng: myObj.name, myObj.age
+  + Cách 1: myObj.cars.car2
+  + Cách 2: myObj.cars["car2"]
+  
+3. Arrays JSON: truy cập bằng chỉ số index của mảng
+
+{
+"name":"John",
+"age":30,
+"cars":[ "Ford", "BMW", "Fiat" ]
+}
+
+myObj.cars[0]
+
+4. Nested Arrays in JSON Objects: Chồng mảng trong json
+
+myObj = {
+  "name":"John",
+  "age":30,
+  "cars": [
+    { "name":"Ford", "models":[ "Fiesta", "Focus", "Mustang" ] },
+    { "name":"BMW", "models":[ "320", "X3", "X5" ] },
+    { "name":"Fiat", "models":[ "500", "Panda" ] }
+  ]
+ }
+ 
+$.cars[0].models[2] -> Mustang
