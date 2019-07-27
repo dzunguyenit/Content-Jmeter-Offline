@@ -25,7 +25,7 @@
         <stringProp name="ThreadGroup.delay"></stringProp>
       </ThreadGroup>
       <hashTree>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Get list of users." enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Get list of users." enabled="false">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -52,7 +52,7 @@
               </elementProp>
               <elementProp name="" elementType="Header">
                 <stringProp name="Header.name">Authorization</stringProp>
-                <stringProp name="Header.value">Bearer rTs3UzPgeDMTcN_bWkAdlbPU1OG72QBj7nyM</stringProp>
+                <stringProp name="Header.value">Bearer akn4tOTUrD5XvcGA1K8QhKqDDQVHy46_yGwe</stringProp>
               </elementProp>
               <elementProp name="" elementType="Header">
                 <stringProp name="Header.name">Content-Type</stringProp>
@@ -66,7 +66,7 @@
           </HeaderManager>
           <hashTree/>
         </hashTree>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Search user by name ${name}" enabled="false">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Search user by name ${name}" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments">
               <elementProp name="name" elementType="HTTPArgument">
@@ -101,7 +101,7 @@
               </elementProp>
               <elementProp name="" elementType="Header">
                 <stringProp name="Header.name">Authorization</stringProp>
-                <stringProp name="Header.value">Bearer rTs3UzPgeDMTcN_bWkAdlbPU1OG72QBj7nyM</stringProp>
+                <stringProp name="Header.value">Bearer akn4tOTUrD5XvcGA1K8QhKqDDQVHy46_yGwe</stringProp>
               </elementProp>
               <elementProp name="" elementType="Header">
                 <stringProp name="Header.name">Content-Type</stringProp>
@@ -130,6 +130,12 @@
               </collectionProp>
               <collectionProp name="1939730901">
                 <stringProp name="-1292278673">Lucienne</stringProp>
+              </collectionProp>
+              <collectionProp name="-1985746258">
+                <stringProp name="-1646616763">VuNguyen</stringProp>
+              </collectionProp>
+              <collectionProp name="1474705785">
+                <stringProp name="639970545">TriNguyen</stringProp>
               </collectionProp>
             </collectionProp>
             <boolProp name="UserParameters.per_iteration">true</boolProp>
