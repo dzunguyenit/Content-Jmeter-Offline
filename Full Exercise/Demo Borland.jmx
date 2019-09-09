@@ -50,7 +50,7 @@
       </HeaderManager>
       <hashTree/>
       <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-        <stringProp name="filename">D:/Performance Mr. Hien/Content-Jmeter-Offline/Full Exercise/RegisterUser.csv</stringProp>
+        <stringProp name="filename">RegisterUser.csv</stringProp>
         <stringProp name="fileEncoding"></stringProp>
         <stringProp name="variableNames">signup,signup:fname,signup:lname,BirthDate,signup:calendar,signup:email,signup:street,signup:city,signup:state,signup:zip,signup:password</stringProp>
         <boolProp name="ignoreFirstLine">true</boolProp>
